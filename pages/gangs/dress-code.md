@@ -16,9 +16,9 @@ These can include:
 * A **vest or outerwear layer**
 * **Pants** (count as **half a point**)
 
-These cannot include:&#x20;
+These cannot include:
 
-* Mask&#x20;
+* Mask
 * Chains & Jewellery
 * Rags
 * Backpacks & Shoes

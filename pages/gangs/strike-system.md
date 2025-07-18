@@ -47,7 +47,7 @@ You've reached the end of the line.
 
 ℹ️ **Other ways to get Disbanded:**
 
-* Community disruption & toxicity after receiving an informal & formal warning for it.&#x20;
-* Direct threat towards players or staff & severe disrespect. An org will be instantly disbanded if doxxing, leaking, IRL trading & members cheating and participating in the spawning of items with IRL trading and exploitation of the server. &#x20;
+* Community disruption & toxicity after receiving an informal & formal warning for it.
+* Direct threat towards players or staff & severe disrespect. An org will be instantly disbanded if doxxing, leaking, IRL trading & members cheating and participating in the spawning of items with IRL trading and exploitation of the server.
 
 This system is here to **create tension, not kill RP**. But if you're not contributing to the world — or worse, actively harming it — your crew will feel the consequences.

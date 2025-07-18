@@ -46,4 +46,4 @@ Only after failed talks **and** a melee conflict (or ambush) can it escalate to 
 
 [^1]: revisit at later time
 
-[^2]: mention if steps completed properly can be finished in one night.&#x20;
+[^2]: mention if steps completed properly can be finished in one night.
