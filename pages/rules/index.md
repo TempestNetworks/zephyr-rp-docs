@@ -52,7 +52,6 @@ If you have questions about any rules or need clarification, please reach out to
 
 - In-game ticket system
 - Discord support channels
-- Direct message to staff members
 
 Remember: These rules exist to ensure everyone can enjoy a high-quality roleplay experience. When in doubt, always choose the option that enhances roleplay for everyone involved.
 
