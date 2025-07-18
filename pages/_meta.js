@@ -12,9 +12,6 @@ export default {
   "gangs": {
     title: "🏴 Gang System"
   },
-  "economy": {
-    title: "� Economy"
-  },
 
   discord: {
     title: 'Discord',
