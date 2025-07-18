@@ -1,0 +1,3 @@
+# 🚫 Harassment & Doxxing
+
+Harassment in any form, including but not limited to verbal, written, or visual harassment, is strictly prohibited. This includes unwanted advances, threats, offensive comments, and any behavior intended to cause distress or discomfort to another individual. Doxxing, which involves sharing or seeking private, personally identifiable information about another member without their consent, is a severe breach of our rules. This includes information such as photos, real names, addresses, phone numbers, or any information that could be used to identify or contact someone outside of the game.
