@@ -10,7 +10,7 @@ export default {
     title: "📋 Rules & Guidelines"
   },
   "gangs": {
-    title: "🏴 Gang System"
+    title: "🏴 Gang Rules"
   },
 
   discord: {
