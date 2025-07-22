@@ -10,7 +10,7 @@ Rather than jump straight to disbandment, crews are hit where it hurts: their ti
 
 Your crew has drawn unwanted heat.
 
-* Must pay **$50,000 in dirty money** to the "cleaner" contact
+* Must pay **X Amount in dirty money** to the "cleaner" contact
 * A **2-day hostile cooldown** is enforced (no offensive actions)
 * Leadership part takes in a _Ted Talk_ from Gang Staff
 
@@ -22,7 +22,7 @@ Your crew has drawn unwanted heat.
 
 The city’s watching you now.
 
-* **$100,000 dirty fine**
+* ** X Amount dirty fine**
 * Your gang must submit **materials or goods** (e.g. 200x scrap, 50x pistol ammo, 20x repair kits — varies)
 * Spray use is **disabled for 3 days**
 * 1 tier downgrade _may_ be enforced depending on context
