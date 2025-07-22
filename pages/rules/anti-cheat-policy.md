@@ -82,18 +82,11 @@ Include:
 ### ❌ What We Don’t Do
 
 We will never:
-- Access your PC or files
 - Use spyware or remote access
-- Ask you to download sketchy software
+- Ask you to download anything that we wouldn't download ourselves
 - Ban based solely on another server’s records
 
 ### 📈 Community Transparency
-
-Every month, we publish:
-- Total bans
-- Number of successful appeals
-- False positive stats
-- Common flagged behaviors
 
 We earn trust by being upfront—not just saying “trust us.”
 
