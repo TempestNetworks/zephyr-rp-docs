@@ -62,8 +62,3 @@ All hard PKs must be agreed on between both parties, all agreements must be done
 **⏳ Death Timer**
 
 Upon death in a gang-related scenario, you must wait **30 minutes** before returning to the area or re-engaging in that same scene.
-
-**This timer may be waived** if:
-
-* You are revived **without hostile involvement**
-* Gang Staff approve a specific storyline exception
