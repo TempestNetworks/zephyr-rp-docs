@@ -49,6 +49,7 @@ _Top tier. Feared and respected. You don’t just operate in the city — you he
 * Custom Gang vehicle of own choosing
 
 ***
+** Rewards do not stop at Syndicated & rewards are not limited to these lists**
 
 Promotion is not guaranteed with time — it must be earned through quality, creativity, and contribution to the broader RP environment.
 
