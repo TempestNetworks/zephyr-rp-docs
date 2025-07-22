@@ -29,6 +29,7 @@ Make sure the RP is there to back it up.
 
 **🏥 Hospitals and Big Scenes Are Off-Limits**\
 KOS doesn’t apply at any green-zone.
+If you take the hostility INTO the green zone then you will be merked in the green zone.
 
 Attacking in these areas is a big no.
 
