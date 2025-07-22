@@ -10,8 +10,8 @@ Each level unlocks greater privileges, larger rosters, increased hostile capacit
 
 _Your first step into the criminal world. All eyes are on you._
 
-* **8-member** roster cap
-* **6-member** hostile cap
+* **12-member** roster cap
+* **12-member** hostile cap
 
 ***
 
@@ -19,9 +19,9 @@ _Your first step into the criminal world. All eyes are on you._
 
 _Recognised. Known. You're beginning to make waves._
 
-* **10-member** roster cap
-* **8-member** hostile cap
-* **4 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest)
+* **12-member** roster cap
+* **12-member** hostile cap
+* **5 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest)
 * Eligible for spray zones
 
 ***
@@ -31,8 +31,8 @@ _Recognised. Known. You're beginning to make waves._
 _You’ve built structure, claimed turf, and gained real presence._
 
 * **16-member** roster cap
-* **14-member** hostile cap
-* **7 custom clothing pieces**
+* **16-member** hostile cap
+* **8 custom clothing pieces**
 * Custom **MLO** (Gang HQ, hideout, or storefront)
 * Access to Gang Helicopter + [unknown item ](#user-content-fn-1)[^1]
 
@@ -42,7 +42,7 @@ _You’ve built structure, claimed turf, and gained real presence._
 
 _Top tier. Feared and respected. You don’t just operate in the city — you help shape it._
 
-* **22-member** roster cap
+* **20-member** roster cap
 * **20-member** hostile cap
 * **10 custom clothing pieces**
 * Larger stash within custom MLO
