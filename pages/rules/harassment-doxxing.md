@@ -6,6 +6,7 @@ Harassment in any form, including but not limited to verbal, written, or visual 
 
 Any accusations or discussions relating to pedophilia — whether in character or in general forums — are strictly prohibited and will result in immediate and permanent removal from the community.
 
+---
 If you have legitimate concerns, you must submit a Management Ticket with all relevant information, evidence, and context. Do not post publicly under any circumstances.
 
 We take these matters seriously and handle them with the utmost care and confidentiality.
