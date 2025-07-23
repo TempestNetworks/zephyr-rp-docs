@@ -22,7 +22,7 @@ _Recognised. Known. You're beginning to make waves._
 * **16-member** roster cap
 * **12-member** hostile cap
 * **5 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest)
-* Eligible for spray zones
+
 
 ***
 
