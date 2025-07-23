@@ -56,5 +56,3 @@ If you have questions about any rules or need clarification, please reach out to
 Remember: These rules exist to ensure everyone can enjoy a high-quality roleplay experience. When in doubt, always choose the option that enhances roleplay for everyone involved.
 
 ---
-
-**Last updated:** July 2025
