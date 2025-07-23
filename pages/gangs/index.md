@@ -38,7 +38,3 @@ For specific questions about:
 - **Conflict resolution** - Use appropriate escalation channels
 - **Rule clarification** - Reach out to gang management staff
 - **Technical issues** - Submit detailed bug reports
-
----
-
-**Last updated:** July 2025
