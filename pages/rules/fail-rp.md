@@ -7,8 +7,6 @@ Fail RP is defined by breaking character, immersion or unrealistic actions withi
 * Addressing players by their Steam/Discord unless it's their nickname.,
 * Ramming or pitting at speeds exceeding 150 KM/h.,
 
-\*Respawning in an active situation (i.e. whilst being treated, transported or with the situation still ongoing).
+* Respawning in an active situation (i.e. whilst being treated, transported or with the situation still ongoing).
 
 * Carrying whilst in the driver seat of ANY vehicle,
-
-\
