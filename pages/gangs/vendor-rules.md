@@ -24,5 +24,9 @@ Vendor and blueprint access is restricted based on your crew's tier, and misuse 
 * Once declared, the vendor holder has full rights to **defend, retaliate, or request mediation**
 
 ***
+Once you have secured a vendor you will have 10 days to operate it without challenge or raid
+All Vendor access MUST be done in your appropriate Org Identifiers and treated with HOSTILE ROLEPLAY not KOS
+All Vendor activity inlcuding but not limited to - staking out, ambushes, kidnapping, raids , investigations must be done in the correct identifiers
+Undercover Detective and Uniformed Detective roleplay will have requirements to make their investigation valid
 
 Vendor access isn’t permanent — it’s earned and maintained. Abuse it, and you’ll lose it. Respect it, and you might just control the city’s supply line.
