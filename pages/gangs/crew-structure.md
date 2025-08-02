@@ -39,7 +39,7 @@ It is the leader’s responsibility to ensure that all tagged members are aware 
 
 To prevent roster abuse, the following cooldowns apply:
 
-* **Returning after soft PK or removal:** 3-day hostile cooldown period
+* **Returning after soft PK or removal:** 3-day gang cooldown period
 
 Cooldowns are enforced server-wide and may only be waived with Gang Staff approval.
 
