@@ -45,6 +45,12 @@ Cooldowns are enforced server-wide and may only be waived with Gang Staff approv
 
 ***
 
+**Hostile Patch Over**
+
+Hostile patch overs are permitted but must be supported by strong, meaningful roleplay that clearly demonstrates the conflict. Prior to initiating a hostile patch over, approval must be obtained from gang management.
+
+The organization losing a member in the patch over is entitled to respond with hostility toward the acquiring group. This should result in ongoing in-character conflict reflecting the nature of a hostile patch over.
+
 **☠️ Soft PKs vs Hard PKs**
 
 * **Soft PK (Partial Death):**
