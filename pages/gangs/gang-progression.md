@@ -56,4 +56,4 @@ Promotion is not guaranteed with time — it must be earned through quality, cre
 Want to rise? Prove you belong here.
 
 ---
-[^1]: Review at later date
+
