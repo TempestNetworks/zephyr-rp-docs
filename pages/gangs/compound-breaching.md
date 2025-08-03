@@ -32,5 +32,3 @@ If someone hits your turf:
 ***
 
 Breach smart. Breach loud. And don’t waste it on some half-baked revenge mission. If you’re pulling up, make it count.
-
-[^1]: review later
