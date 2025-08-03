@@ -43,7 +43,3 @@ Only after failed talks **and** a melee conflict (or ambush) can it escalate to 
 ***
 
 [Zephyr values immersive, **story-driven gang RP**. Escalation gives everyone a reason to care about the outcome — don’t skip the build-up just to chase the bang.](#user-content-fn-2)[^2]
-
-[^1]: revisit at later time
-
-[^2]: mention if steps completed properly can be finished in one night.
