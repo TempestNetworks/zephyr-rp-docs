@@ -33,6 +33,8 @@ Hostile actions can **CONTINUE** if taken into the green zone
 
 Red zones are a shoot on sight
 
+Using 1 way bullet resistnt windows to your advantage is prohibited
+
 Criminals are allowed to try to intercept a police convoy to try to retrieve or free a friend who is being transported from a crime scene to the station
 
 Once the criminal has entered the station, players may decide to siege the PD if proper initiation on the transport has happened prior to arriving at the PD.
