@@ -44,7 +44,7 @@ Players cannot camp the PD and complete their initiation when Police arrive at t
 When a High Value Prisoner Transport is being transported from MRPD to Bolingbroke Penitentiary criminals can attempt to free and retrieve their highly valued friend - with DECLARATION and NO RAMMING.
 
 Players are prohibited from initiating any form of hostility (including but not limited to heists, hostage situations, and shootouts) within 30 minutes before or after a server restart.
-
-**Exemptions**: This rule does not apply if the player is located at an illegal crafting location or is already engaged in illegal activities.
+\
+  **Exemptions**: This rule does not apply if the player is located at an illegal crafting location or is already engaged in illegal activities.
 
 You are only allowed to have a maximum of 6 players for a heist. You are not required to wear gang clothing, but all outfits must match.
