@@ -49,7 +49,7 @@ Players are prohibited from initiating any form of hostility (including but not 
 
 You are only allowed to have a maximum of 6 players for a heist. You are not required to wear gang clothing, but all outfits must match.
 
-Cayo Perico Island 
+# **Cayo Perico Island **
 
 This is a RED ZONE complete KILL ON SIGHT ZONE - No Mans Land - You are at full risk of being killed. robbed or both.
 
