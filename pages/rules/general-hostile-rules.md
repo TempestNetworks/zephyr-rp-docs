@@ -25,6 +25,8 @@ Individuals taken hostage must have no connection to the person taking them capt
 
 Killing a player after robbing them is strictly prohibited and will break the NITRP rule.
 
+You can not kill a player then rob them. unless you are on Cayo
+
 However, if a robbed player escalates the situation that leads to death, then that is fair game
 
 No hostile is to be **INITIATED** within a green zone.
