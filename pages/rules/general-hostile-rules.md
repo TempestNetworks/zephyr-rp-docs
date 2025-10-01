@@ -53,6 +53,10 @@ You are only allowed to have a maximum of 6 players for a heist. You are not req
 
 You are NOT to third party or get involved with another group doing a heist (you can not take someone elses heist from them or interfere with it)
 
+There is to be ***NO tripping in combat*** you can not trip people then kill them at all, You may only trip people if chasing them in roleplay to stop them escaping a RP scene or to escape from someone chasing you. 
+
+ 
+
 # Cayo Perico Island 
 
 This is a RED ZONE complete KILL ON SIGHT ZONE - No Mans Land - You are at full risk of being killed. robbed or both.
