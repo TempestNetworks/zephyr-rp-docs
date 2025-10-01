@@ -50,7 +50,7 @@ Used right, KOS can create unforgettable stories, settle beef, and shape the cit
 
 ***
 
-**📜 Setting Demands** 
+**📜 Setting Demands**\
 When another group provokes your gang (examples: spraying your turf, insulting your crew), you may choose one of two paths: respond with hostility or attempt to de-escalate by issuing demands. Demands are optional — they can be proposed, negotiated, accepted, or refused.
 Acceptable demands (examples)
 - Remove graffiti from your territory within a reasonable timeframe.
