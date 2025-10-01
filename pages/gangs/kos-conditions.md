@@ -60,3 +60,15 @@ Acceptable demands (examples)
 Demands must be reasonable and proportional to the offense.
 Staff may decline or cancel demands they judge to be unrealistic. Repeatedly issuing unrealistic demands may result in those demands—or the entire conflict—being dropped by staff.
 Demands are not mandatory; groups may refuse them and choose other responses
+
+***
+
+**🧥 Out of Colours**\
+If your gang is involved in an active KOS or ongoing beef, you must wear your gang colours (official gang clothing).
+You may only go out of colours after being killed, during your hostile cooldown or while waiting for the KOS to expire.
+
+🔴 You cannot go out of colours just to avoid conflict while still participating in the beef.
+If you're in it — you're in it. Starting a beef and then hiding until it's convenient to return is not allowed.
+
+
+***
