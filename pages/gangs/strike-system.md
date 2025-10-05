@@ -6,42 +6,50 @@ Rather than jump straight to disbandment, crews are hit where it hurts: their ti
 
 ***
 
-**⚠️ Strike One – Disruption Fee**
 
-Your crew has drawn unwanted heat.
+# Minor Strikes for Gangs: 
+Minor strikes will be issued for poor behavior, rule violations, or issues in the city. This includes:
 
-* Must pay **X Amount in dirty money** to the "cleaner" contact
-* A **2-day hostile cooldown** is enforced (no offensive actions)
-* Leadership part takes in a _Ted Talk_ from Gang Staff
+* Poor or no RP
 
-> Think of it as a bribe to keep your heat off the streets.
+* Bad behavior during gang-to-gang conflicts
 
-***
+* Poor interactions with PD or civilians
 
-**🚧 Strike Two – Resource Drain**
+* Any other infractions that disrupt the experience or violate server rules
 
-The city’s watching you now.
+***Note:*** This list is not exhaustive, and minor strikes can be issued for any other interactions in the city at staff discretion.
 
-* ** X Amount dirty fine**
-* Your gang must submit **materials or goods** (e.g. 200x scrap, 50x pistol ammo, 20x repair kits — varies)
-* Spray use is **disabled for 3 days**
-* 1 tier downgrade _may_ be enforced depending on context
-* Access to **vendors & gang stash is locked for 5 days**
-* Must complete a **gang RP task** assigned by staff (e.g. public clean-up job, peace treaty negotiation, or a fake charity drive)
+# In-City Fee for Minor Strikes:
 
-> You're bleeding resources to survive. Better tighten up.
+If your gang accumulates minor strikes, the following in-city fees will be applied:
 
-***
+1st Minor Strike: 3 Million
 
-**🟥 Strike Three - Disbandment**
+2nd Minor Strike: 5 Million
 
-You've reached the end of the line.
+3rd Minor Strike: 8 Million
+After 3 minor strikes, your gang will receive a Major Strike.
 
-* Your gang is **officially disbanded**, roster wiped
-* Any attempt to reform without clearance will result in a **server-wide blacklist from gang activity**
-* Leaders may appeal after **30 days**, but it is not guaranteed
+# Major Strikes for Gangs:
 
-> You had your chances. You chose chaos. Now you pay the price.
+Major strikes will still be issued for severe infractions, regardless of the number of minor strikes. The consequences are as follows:
+
+1st Major Strike: 12 Million fee and a one-week hostile cooldown (your gang cannot engage in hostile actions during this time).
+
+2nd Major Strike: 15 Million fee, a one-week hostile cooldown, and possible demotion of your gang’s standing within the server.
+
+A third major strike will result in removal of your gang from the server.
+
+# Strike Duration:
+
+The first major strike will last 30 days, and the second major strike will last 60 days.
+
+***Warning System:***
+There is no warnings Instead, minor strikes will allow us to address issues earlier. However, if a situation is severe enough, a gang can still receive a Major Strike directly, bypassing the minor strike system.
+
+***Please ensure your gang maintains good behavior and RP throughout all interactions in the city—whether with other gangs, PD, or civilians. Our goal is to keep everything fun, fair, and balanced. If you have any questions or concerns, feel free to reach out.***
+
 
 ***
 
