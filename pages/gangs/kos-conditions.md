@@ -54,7 +54,7 @@ Used right, KOS can create unforgettable stories, settle beef, and shape the cit
 When another group provokes your gang (examples: spraying your turf, insulting your crew), you may choose one of two paths: respond with hostility or attempt to de-escalate by issuing demands. Demands are optional — they can be proposed, negotiated, accepted, or refused.
 Acceptable demands (examples)
 - Remove graffiti from your territory within a reasonable timeframe.
-- Pay a realistic fee or tax proportional to the offense (amounts must be plausible given the situation ideally 500k to 5m max in extreme cases).
+- Pay a realistic fee or tax proportional to the offense (amounts must be plausible given the situation ideally 500k to 5m max in extreme cases. seek staff approval on over 1m fee's).
 
 **Rules & consequences**
 Demands must be reasonable and proportional to the offense.
