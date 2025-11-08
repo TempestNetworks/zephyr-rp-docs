@@ -19,8 +19,6 @@ Boot checking is not allowed unless there has been prior RP
 Containers / Storages / Gang Storages / Houses: Passwords are given out at your own risk
 Be vigilant with who you share these with and where you discuss them in city.
 
-Scamming is not tolerated unless it involves illegal items.
-
 Individuals taken hostage must have no connection to the person taking them captive and must not be exploited for financial purposes.
 
 Killing a player after robbing them is strictly prohibited and will break the NITRP rule.
