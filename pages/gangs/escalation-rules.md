@@ -18,7 +18,7 @@ If words fail, and egos flare, it’s time to settle it the old-fashioned way.
 
 Fists, bats, and melee weapons are the next logical escalation,This stage should still allow for resolution without permanent consequences Gang-on-gang scraps, body shots, and fights for honour all fall under this
 
-* This part of the escaltion should run for a realistic time in most situations. not just one and done use the melee phase to build RP\
+* This part of the escaltion should run for a realistic time in most situations. not just one and done use the melee phase to build RP
 
 * Some beefs only require melee fights to sort out
 
