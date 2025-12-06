@@ -16,12 +16,14 @@ Think: “Let’s meet at the pub and talk this out” — not “See you at the
 
 If words fail, and egos flare, it’s time to settle it the old-fashioned way.
 
-Fists, bats, and melee weapons are the next logical escalation
-This stage should still allow for resolution without permanent consequences
-Gang-on-gang scraps, body shots, and fights for honour all fall under this
-This part of the escaltion should run for a realistic time in most situations. not just one and done use the melee phase to build RP
-Some beefs only require melee fights to sort out
-There may be situations where melee escalation alone is not enough, but this does not give permission to skip straight to firearms. Even when a scene naturally escalates past melee, players are still expected to show proper, believable roleplay, demonstrating fear, pressure, and the build-up that justifies the escalation.
+Fists, bats, and melee weapons are the next logical escalation,This stage should still allow for resolution without permanent consequences Gang-on-gang scraps, body shots, and fights for honour all fall under this
+
+* This part of the escaltion should run for a realistic time in most situations. not just one and done use the melee phase to build RP\
+
+* Some beefs only require melee fights to sort out
+
+* there may be situations where melee escalation alone is not enough, but this does not give permission to skip straight to shooting. Even when a scene naturally escalates past melee, players are still expected to show proper, believable roleplay, demonstrating fear, pressure, and the build-up that justifies the escalation.
+
 A brawl settles tension — or starts the real war.
 
 ## 🔫 3. Weapon Conflict – Point of No Return
@@ -35,27 +37,16 @@ If all melee conflict fails to resolve the issue, then you may escalate — but 
 
 Examples:
 
-Take someone’s radio and send a message through their own member.
+* Take someone’s radio and send a message through their own member.
 
-Stab a member, drop them, and let the ripple effect unfold.
+* Stab a member, drop them, and let the ripple effect unfold.
 
-Build tension in a way that feels earned and story-driven.
+* Build tension in a way that feels earned and story-driven.
 
-A single phone call saying “on sight” is lazy RP and won’t fly.
+* A single phone call saying “on sight” is lazy RP and won’t fly.
 
-Once the bullets fly, there's no turning back.
+* Once the bullets fly, there's no turning back.
 
-## Using Guns in Hold-Ups (Important Clarification)
-Using a gun to hold someone up does NOT automatically escalate the situation to gunplay.The gun is simply a fear tool, not a greenlight to start shooting.
-
-If you are still in the melee escalation phase, you do not shoot them.You still handle the situation with melee. Example: they are not cooperating or talking smack after being warned stab them dont shoot them.
-
-You should only hold someone up in the melee phase if you know they are alone and you have a clean, realistic opportunity — doing it recklessly can cause unnecessary escalation.
-
-Guns in this phase are for fear and control only.
-
-Try to only hold 1–2 people max. trying to hold up the whole gang at a meeting with guns is not ideally proper escalation we only want to see hold ups in the melee phased for is you catch people lacking or when you are going to escalate to the next step.
-If one of your members is already at gunpoint, DO NOT start shooting. Their life is in immediate danger — shooting guarantees they die first.
 
 ## Fearing for Life and standing your ground
 In Zephyr, you are always expected to fear for your life and the lives of your gang members. If you’re faced with real danger, outnumbered, caught off guard, injured, or held at a clear disadvantage, you must react realistically. Failing to show fear, acting like you’re untouchable, or ignoring danger will be treated as Failing Fear RP.
