@@ -57,9 +57,7 @@ However…
 
 * Your turf
 
-* Your vendor
-
-* A market you control
+  * A market you control (E.G Benchs or drugs you are trying to hold)
 
 BUT standing your ground does not mean acting childish, refusing RP, or just saying “nah not happening.” You must still roleplay correctly and keep the scene going. Standing your ground can still lead to injuries, members being killed, or your group taking heavy losses — and you are expected to RP all of that properly.
 
@@ -69,7 +67,7 @@ BUT standing your ground does not mean acting childish, refusing RP, or just say
 
 **Standing Your Ground:** You can defend what belongs to your group, but you must still fear for your life and play the scene out realistically.
 
-You are allowed to resist demands ONLY for turf, vendors, or markets. Anything outside of that does not count as standing your ground and full Fear RP applies.
+You are allowed to resist demands ONLY for turf, or markets (E.G Benchs or drugs you try hold down). Anything outside of that does not count as standing your ground and full Fear RP applies.
 
 High-Quality RP Is Expected From Both Sides
 When scenes like this kick off — where one side is pressing, demanding, or trying to take control and the other is standing their ground — both sides are expected to bring their best RP.
