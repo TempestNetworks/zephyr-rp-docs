@@ -63,7 +63,7 @@ We may consider prior bans or public records only when:
 
         📋 Documented – Every ban is logged & appealable
 
-        📊 Transparent – We post ban stats monthly
+        📊 Transparent – We aim to post ban stats monthly
 
         📤 Appeal Process
 
