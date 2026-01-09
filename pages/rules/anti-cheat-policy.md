@@ -51,7 +51,7 @@ We may consider prior bans or public records only when:
 
     ⛔ Action: Temporary ban while logs are reviewed
 
-    All bans are reviewed by trusted staff—no auto-bans, no AI calls the shots.
+    All bans are reviewed by trusted staff—no auto-bans.
 
         🧠 Why This Works Best
 
