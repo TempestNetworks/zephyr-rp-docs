@@ -17,7 +17,7 @@ We use smart, behavior-based systems to detect cheating. We flag for:
 
 If needed, we may ask to conduct a PC check, using approved third-party tools.
 - ✅ Consent is required.
-- 🚫 No spyware. No remote desktop. No hidden tools.
+- 🚫 No spyware. No hidden tools.
 - ❌ Refusing a PC check without clear communication may result in permanent removal.
 - 🧾 We Don’t Sell Safety If you're caught cheating, exploiting, or IRL trading, you cannot buy your way back. No paid unbans. No exceptions.
 
