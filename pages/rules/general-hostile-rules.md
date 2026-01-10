@@ -22,6 +22,8 @@ Hostile roleplay is a core part of criminal interaction within Zephyr City. Thes
 
 * Hostages cannot be taken solely for financial gain.
 
+* ***HELMET'S ARE NOT TO BE USED IN HOSTILITY'S***
+
 ## Robberies & Theft
 
 **Robberies may be initiated against players actively performing illegal activities, including:**
