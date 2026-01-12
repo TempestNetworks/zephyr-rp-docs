@@ -52,8 +52,46 @@ There is no warnings Instead, minor strikes will allow us to address issues earl
 
 
 ***
+# Gang Cheating & Exploits Policy
 
-ℹ️ **Other ways to get Disbanded:**
+Gangs are responsible for the actions of their members. Any form of cheating, exploiting, or knowingly benefiting from cheats (including third-party software, glitches, or bypassing game mechanics) will result in strikes against the gang as a whole.
+
+## Strike Structure:
+
+***2 members caught*** → Minor Strike
+
+***4 members caught*** → Major Strike
+
+***6 members caught*** → Immediate Gang Disband
+
+## Strike Duration:
+
+* Each player caught cheating will remain counted toward the gang’s total for 90 days.
+
+* After 90 days, that player’s count will drop off automatically.
+
+* Repeat offenses reset the 90-day timer for that individual.
+
+## Staff Discretion:
+
+Gang staff reserves the right to issue double Minor Strikes in situations where the severity, coordination, or impact of the cheating justifies it.
+
+## Important Notes:
+
+* Only confirmed cases with evidence will be counted.
+
+* Gang leadership is expected to actively prevent cheating within their group.
+
+* Claiming ignorance of a member’s actions will not exempt the gang from punishment.
+
+* Staff reserves the right to escalate action in extreme or repeat cases.
+
+
+***This policy exists to maintain fairness and protect the integrity of roleplay on Zephyr.***
+
+
+***
+# Other ways to get Disbanded:
 
 * Community disruption & toxicity after receiving an informal & formal warning for it.
 * Direct threat towards players or staff & severe disrespect. An org will be instantly disbanded if doxxing, leaking, IRL trading & members cheating and participating in the spawning of items with IRL trading and exploitation of the server.
