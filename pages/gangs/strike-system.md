@@ -70,8 +70,6 @@ Gangs are responsible for the actions of their members. Any form of cheating, ex
 
 * After 90 days, that player’s count will drop off automatically.
 
-* Repeat offenses reset the 90-day timer for that individual.
-
 ## Staff Discretion:
 
 Gang staff reserves the right to issue double Minor Strikes in situations where the severity, coordination, or impact of the cheating justifies it.
