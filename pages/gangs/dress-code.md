@@ -27,10 +27,7 @@ Failure to follow the Dress Code will result in punishments at the discretion of
 
 Your crew should be seen, recognised, and respected — make sure you look the part.
 
-Under no circumstances are you to wear other gangs clothing unless you have roleplayed taking a piece during escolation and beef.
-Collapse
-
 Your crew should be **seen, recognised, and respected** — make sure you look the part.
 
 ***
-### Under no circumstances are you to wear other gangs clothing unless you have roleplayed taking a piece during escolation and beef. 
+### Under no circumstances are you to wear other gangs clothing In Hostile 
