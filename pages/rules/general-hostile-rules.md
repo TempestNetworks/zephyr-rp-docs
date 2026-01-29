@@ -164,5 +164,5 @@ you may not bait the person to get them to become uncooperative**
 ## Cayo Perico Island
 
 This is a **RED ZONE** — a complete **KILL ON SIGHT ZONE** (No Man’s Land).
-You are at full risk of being killed, robbed, and all items on your person are subject to being looted.
+You are at full risk of being killed, robbed, or both. **All** items on your person are subject to being looted.
 
