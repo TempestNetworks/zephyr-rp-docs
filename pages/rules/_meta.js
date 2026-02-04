@@ -36,6 +36,9 @@ export default {
   "power-gaming": {
     title: "🦾 Power Gaming",
   },
+  "scamming": {
+    title: "💰 Scamming",
+  },
   "general-hostile-rules": {
     title: "⚔️ General Hostile Rules",
   },
