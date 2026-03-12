@@ -12,6 +12,9 @@ export default {
   "gangs": {
     title: "🏴 Gang Rules"
   },
+  "businesses": {
+    title: "🏢 Business Rules"
+  },
 
   discord: {
     title: 'Discord',
