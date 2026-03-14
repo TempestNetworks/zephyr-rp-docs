@@ -1,3 +1,5 @@
 # 🕵️‍♂️ Cheating
 
 Cheating, which includes using hacks, scripts, or any third-party software to gain an unfair advantage in the game, is strictly prohibited. We expect all players to engage in fair and honest gameplay. Cheating disrupts the balance of the game and diminishes the experience for others. Exploiting in-game glitches or bugs to gain an unfair advantage is also considered cheating and is not allowed. Violations of this rule will result in immediate and severe consequences, including permanent bans from the community.
+
+If we have enough Suspicious kill clips sent in in regards to a player and it appears they are cheating they will be expected to provide clips of their POV being a minimum of 30 seconds (this mean clip your kills if you think it might make people question if you are cheating) if clips can not be provided the player will be banned. this is in place because of how hard it is to catch people cheating now days and was voted on by our community to be implemented.
