@@ -21,7 +21,7 @@ _Recognised. Known. You're beginning to make waves._
 
 * **16-member** roster cap
 * **12-member** hostile cap
-* **5 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest)
+* **5 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest) plus one accessory piece
 
 
 ***
@@ -32,7 +32,7 @@ _You’ve built structure, claimed turf, and gained real presence._
 
 * **20-member** roster cap
 * **16-member** hostile cap
-* **8 custom clothing pieces**
+* **8 custom clothing pieces** plus two accessory pieces
 * Custom **MLO** (Gang HQ, hideout, or storefront)
 * Access to Gang Helicopter + [unknown item ](#user-content-fn-1)[^1]
 
