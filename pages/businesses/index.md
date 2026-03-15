@@ -22,7 +22,6 @@ The aim of this act is to clearly outline and provide a formal set of business r
 - A single person can only be the owner of a single business. They can hold management roles in other businesses if they wish.
 - Only two separate individuals in the same gang or organisation can own businesses. These businesses cannot provide the same service as each other. The gang or organisation has no ownership over the business, that is solely with the legal owner.
 - Recognised co-ownership is not permitted. Profit sharing agreements are allowed, however any abuse of this privilege will result in government intervention.
-- All ownership transfers/selling of the business must be approved by staff prior to being transferred or sold.
 - Relinquished businesses may be closed, reassigned, or repurposed based on city needs.
 - Any businesses with existing co-ownership arrangements may continue as-is but will not be allowed to add or change co-owners.
 - Business owners are held to a higher standard in the city. Repeated misconduct could result in forfeiture or closure. This will be evaluated on a case by case basis.
