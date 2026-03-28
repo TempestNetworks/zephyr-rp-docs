@@ -49,14 +49,14 @@ The following are considered **inherently high-risk illegal activities** and **d
 - Killing a player **after robbing them** is not allowed unless the victim **clearly escalates the situation**.
 
 ### Gang Beef / Hostage Rules
-- During gang-related situations, if you take a hostage you may only take:
+During gang-related situations, if you take a hostage you may only take:
   - Weapons  
   - Communication devices  
 
-- If the hostage **cooperates**, these items must be returned once the situation ends.
-- If the hostage is **genuinely uncooperative**, you may retain those items.
+If the hostage **cooperates**, these items must be returned once the situation ends.
+If the hostage is **genuinely uncooperative**, you may retain those items.
 
-- You may **NOT**:
+You may **NOT**:
   - Bait, provoke, or manipulate a hostage into becoming uncooperative
   - Use this rule to justify unnecessary item loss
 
