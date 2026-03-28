@@ -26,28 +26,41 @@ Hostile roleplay is a core part of criminal interaction within Zephyr City. Thes
 
 ## Robberies & Theft
 
-**Robberies may be initiated against players actively performing illegal activities, including:**
+Robberies may only be carried out with a **valid roleplay reason** — not for convenience or personal gain.
 
-* Drug dealing
+### General Rules
+- You may only take items **relevant to the situation**.
+- All robberies must be supported by **meaningful RP**.
+- Staff may request proof of RP build-up at any time.
 
-* Drug processing
+### Robberies Requiring RP Lead-Up
+The following situations **require clear RP build-up**:
+- Drug selling
+- Boosting contracts
+- House robberies
+- Debt collection
+- Recovering stolen items
 
-* Illegal crafting
+### Robberies That Do NOT Require RP Lead-Up
+The following are considered **inherently high-risk illegal activities**:
+- Drug manufacturing or processing
+- Illegal crafting benches
 
-* Black market activity
+### Killing & Robbing
+- Killing a player and then robbing them is **strictly prohibited**, except on **Cayo**.
+- Killing a player **after robbing them** is not allowed unless the victim **clearly escalates the situation**.
 
-* Any location related to illegal item acquisition
+### Gang Beef / Hostage Rules
+- During gang-related situations, if you take a hostage you may only take:
+  - Weapons  
+  - Communication devices  
 
-* Robberies may also occur following significant RP lead-up, such as debt collection or recovering stolen items.
+- If the hostage **cooperates**, these items must be returned once the situation ends.
+- If the hostage is **genuinely uncooperative**, you may retain those items.
 
-* Robbing someone requires proper RP and a valid reason — not just convenience. you should also only take the items related to the scene.
-
-* Killing someone and then robbing them is prohibited unless on Cayo.
-
-* Killing a player after robbing them is strictly forbidden unless they escalate the situation first.
-
-**if you take someone hostage during gang beef you are to only take weapons and comms for saftey reasons. If the hostage behaves you should return the items but if they are uncooperative you may keep the items.\
-you may not bait the person to get them to become uncooperative**
+- You may **NOT**:
+  - Bait, provoke, or manipulate a hostage into becoming uncooperative
+  - Use this rule to justify unnecessary item loss
 
 
 
