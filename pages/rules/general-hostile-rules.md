@@ -33,16 +33,14 @@ Robberies may only be carried out with a **valid roleplay reason** — not for c
 - All robberies must be supported by **meaningful RP**.
 - Staff may request proof of RP build-up at any time.
 
-### Robberies Requiring RP Lead-Up
-The following situations **require clear RP build-up**:
+Robberies **require clear RP build-up** and you must be able to provide proof if asked
 - Drug selling
 - Boosting contracts
 - House robberies
 - Debt collection
 - Recovering stolen items
 
-### Robberies That Do NOT Require RP Lead-Up
-The following are considered **inherently high-risk illegal activities**:
+The following are considered **inherently high-risk illegal activities** and **do not require clear RP build-up**
 - Drug manufacturing or processing
 - Illegal crafting benches
 
