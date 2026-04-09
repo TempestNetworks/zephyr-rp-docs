@@ -39,3 +39,6 @@ The aim of this act is to clearly outline and provide a formal set of business r
 - The Better Business Act may be updated or have amendments made to it to ensure it is maintaining a fair and balanced structure to the business environment of the state.
 - Decisions made by the business management office are final and are not appealable.
 - The business management office reserves the right to audit and overturn any decisions or blacklistings that do not uphold good conduct or have sufficient justification.
+- Business Management reserves the right to review and dissolve or change the ownership of any business at their discretion. This may occur for reasons including, but not limited to, inactivity, failure to operate the business, consecutive failure to pay required   business taxes, the business becoming non-profitable or inactive, rule violations, poor management, or any other circumstance deemed necessary to maintain the integrity, balance, and health of the roleplay environment.
+
+Decisions made by Business Management regarding business ownership and reassignment are final.
