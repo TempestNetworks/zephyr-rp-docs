@@ -24,6 +24,8 @@ Attempting to "stack" with non-tagged members during conflict will result in dis
 
 **🔹 Tagged Members**
 
+To be rostered as a tagged member, players must have at least **24 hours of total server playtime**. Players who do not meet this requirement may not be recruited into or listed on any gang roster.
+
 Tagged members are officially listed on the crew roster and hold full gang privileges.\
 They are allowed to:
 
