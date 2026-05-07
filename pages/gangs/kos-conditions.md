@@ -92,6 +92,21 @@ If you put yourself in a gang situation while on timer, you are fair game and st
 
 If you die in a conflict you should be taking off your gang clothing before leaving the inside of the hospital to avoid any confusion.
 
+## ➕ Joining Active KOS / Rosters
+
+Players cannot be added, “plused on,” or brought into an active KOS after the conflict has already started.
+
+You cannot call in extra members purely to gain numbers once fighting has already begun.
+
+Examples of not allowed behaviour:
+
+* Plusing members onto roster after shots have already been fired
+* Calling in outside backup with no prior involvement
+* Swapping players onto roster to replace downed members during active conflict
+* Having members log in purely to participate in an already active KOS
+
+Staff may remove players from the conflict or void situations where roster abuse or “number padding” is occurring.
+
 ## Hostile Timer
 
 Being “on timer” does NOT let you:
