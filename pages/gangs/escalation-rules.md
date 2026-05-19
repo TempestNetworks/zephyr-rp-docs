@@ -1,7 +1,7 @@
 # 💣 Escalation Rules
 In Zephyr Roleplay, conflict isn’t about who shoots first — it’s about building tension, telling a story, and giving RP a chance to breathe. Every gang conflict must follow a natural progression, with words first, weapons last.
 
-Failing to follow proper escalation may lead to the delay of progression of your org, with the possibility of staff intervention. [^1]
+Failing to follow proper escalation may lead to the delay of progression of your org, with the possibility of staff intervention. 
 
 ## 🗣️ 1. Talk It Out – Words First
 
@@ -18,7 +18,7 @@ If words fail, and egos flare, it’s time to settle it the old-fashioned way.
 
 Fists, bats, and melee weapons are the next logical escalation,This stage should still allow for resolution without permanent consequences Gang-on-gang scraps, body shots, and fights for honour all fall under this
 
-* This part of the escaltion should run for a realistic time in most situations. not just one and done use the melee phase to build RP
+* This part of the escaltion should run for a realistic time in most situations, not just one and done use the melee phase to build RP
 
 * Some beefs only require melee fights to sort out
 
@@ -30,8 +30,7 @@ A brawl settles tension — or starts the real war.
 
 Only after failed talks and a melee conflict (or ambush) can it escalate to firearms, so long as both groups agree.
 
-Shootouts, drive-bys, ambushes, and turf raids with weapons must be properly justified
-At this stage, you must be ready to face staff intervention if escalation is deemed invalid
+Shootouts, drive-bys and ambushes with weapons must be properly justified
 Declaration must still occur — no silent kills, sniping, or one-sided wipeouts without RP lead-up
 If all melee conflict fails to resolve the issue, then you may escalate — but it must be done with strong, creative RP.
 
