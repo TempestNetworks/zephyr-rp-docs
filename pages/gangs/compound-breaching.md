@@ -44,7 +44,7 @@ If someone hits your turf:
 
 ***
 
-**🚪 Clubhouse Breaching Exception
+**🚪 Clubhouse Breaching Exception**
 
 A compound breaching tool is **not required** if a group actively initiates hostilities from within their clubhouse/compound by shooting at another group from inside the property.
 
