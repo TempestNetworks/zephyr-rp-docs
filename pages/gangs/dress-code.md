@@ -22,7 +22,7 @@ To keep hostile roleplay clear, fair, and immersive, all groups engaging in gang
 Clothing must be visibly identifiable from a distance
 Use gang colours or patterns where possible
 Attempting to “blend in” to bait or confuse other gangs will result in staff action
-You are permitted to have two colour variants for your gang clothing
+You are permitted to have two colour variants for your gang clothing however both are to include your main colour
 Failure to follow the Dress Code will result in punishments at the discretion of Gang Staff
 
 Your crew should be seen, recognised, and respected — make sure you look the part.
@@ -30,4 +30,4 @@ Your crew should be seen, recognised, and respected — make sure you look the p
 Your crew should be **seen, recognised, and respected** — make sure you look the part.
 
 ***
-### Under no circumstances are you to wear other gangs clothing In Hostile 
+### Under no circumstances are you to wear other gangs clothing in hostilities (If you have roleplayed taking a piece of clothing during beef this specific item of clothing can be worn outside of hostilities)
