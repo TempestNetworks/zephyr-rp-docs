@@ -4,6 +4,18 @@ To maintain fairness and consistency across Zephyr Roleplay, all crews must oper
 
 ***
 
+**🔹 Unregistered Group Restrictions**
+
+Players who are not part of an officially registered Crew, Org, or Syndicate are restricted to engaging in hostilities with a maximum of six (6) people at any one time.
+
+All members involved in these hostilities must also be wearing clearly matching attire that reasonably identifies them as part of the same group.
+
+Unregistered groups are not to actively seek out or initiate ongoing conflict with registered groups. The pre-registered stage is intended to be a learning and growth period where players build their reputation, create connections, develop their roleplay, and become familiar with the criminal atmosphere of the server before progressing further.
+
+This stage should focus on organic roleplay and establishing your group’s identity, not competing directly with established factions.
+
+***
+
 **🔹 Non-Tagged Members**
 
 Non-tagged members are individuals who associate with a crew but are not officially on the roster.\
