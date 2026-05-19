@@ -14,6 +14,8 @@ Breaking into another crew’s compound isn’t just some petty robbery — it�
 
 This system is designed to encourage **high-quality roleplay** and serious conflict progression. Abuse of the system will not be tolerated.
 
+***
+
 **🧰 Getting the Breach Kit**
 
 You can’t just show up and blow down the door — you’ll need a **special breaching item**, only available through **Madrazo's**.
