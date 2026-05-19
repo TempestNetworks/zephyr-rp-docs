@@ -22,7 +22,7 @@ _Recognised. Known. You're beginning to make waves._
 * **16-member** roster cap
 * **12-member** hostile cap
 * **5 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest) plus one accessory piece (rag & mask etc)
-  - Up to 2 approved colourways per clothing piece
+  - Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
   - Up to 2 texture variants per clothing piece 
 
 ***
@@ -36,7 +36,7 @@ _You’ve built structure, claimed turf, and gained real presence._
 * Custom **MLO** (Gang HQ, hideout, or storefront)
 * Access to Gang Helicopter 
 * **8 custom clothing pieces** plus two accessory pieces
-  - Up to 2 approved colourways per clothing piece
+  - Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
   - Up to 4 texture variants per clothing piece
 
 ***
@@ -50,7 +50,7 @@ _Top tier. Feared and respected. You don’t just operate in the city — you he
 * Larger stash within custom MLO
 * Custom Gang vehicle of own choosing
 * **10 custom clothing pieces**
-  - Up to 2 approved colourways per clothing piece
+  - Up to 3 approved colourways per clothing piece (All 3 Colourways must include your groups main colour)
   - Up to 6 texture variants per clothing piece
 
 **Custom Clothing Variant Rules**
