@@ -4,7 +4,7 @@ Breaking into another crew’s compound isn’t just some petty robbery — it�
 
 ***
 
-#🧨 Breaching Tool Rulings
+**🧨 Breaching Tool Rulings**
 
 * You MUST reach out and ask permission to purchase a breaching tool off Madrazo.
 * Significant prior built-up RP must be provided before approval will be considered.
