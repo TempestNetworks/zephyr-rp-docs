@@ -106,7 +106,7 @@ We earn trust by being upfront—not just saying “trust us.”
 
 /report > Create ticket > Explain situation in detail including the /ids of the suspicious player.
 
-📌 Staff Portal: [Zephyr Portal]((https://portal.zephyrroleplay.com))
+📌 Staff Portal: [Zephyr Portal](https://portal.zephyrroleplay.com)
 
 🚫 No public callouts or witch hunts—let staff handle it professionally.
 
