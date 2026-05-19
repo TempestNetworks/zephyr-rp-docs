@@ -19,6 +19,7 @@ Your vehicle fleet is part of your gang’s identity — keep it consistent.
 * Crews may use a maximum of **2 motorbikes** during any hostile engagement
 * If a motorbike is **blown up or destroyed**, another motorcycle is <mark style="color:red;">**NOT**</mark> permitted to be pulled out for the duration of the scenario (kos or hostile scene)
 * Bikes <mark style="color:green;">**MAY**</mark> be **repaired on-scene**, but cannot be replaced if fully lost
+* If you shoot from a motorbike, expect that people have permission to then defend themselves using their vehicle
 
 No spamming bikes from garages — if it’s gone, it’s gone.
 
