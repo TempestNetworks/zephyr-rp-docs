@@ -4,49 +4,32 @@ Crews grow, evolve, and sometimes outgrow their name or image — and that’s t
 
 ***
 
-# First Instance:
+# Guidelines:
 
-In-City Fee: A standard rebranding fee will be applied.
+Any group undergoing a rebrand will be moved back one progression stage.
 
-No Impact on Progression or Rank: Your gang's progression and rank will remain unaffected by this rebranding.
+Examples:
+• Org → Crew
+• Crew → Trial Crew
 
-Approval Requirement: To proceed with rebranding, a minimum number of original gang members must be present in the gang.
+In-City Fee: A standard rebranding fee will be applied. Fee to be decided at the time of rebrand. 
+
+Approval Requirement: At least 50% of the original registered members must remain to qualify as a rebrand rather than a completely new group.
 
 Discretion: Final approval will be based on gang management's discretion.
-
-# Second Instance:
-
-In-City Fee: A larger rebranding fee will be imposed.
-
-Possible Impact on Progression: Your gang's progression may be affected based on the circumstances.
-
-Approval Requirement: A minimum number of original gang members must be present for approval.
-
-Discretion: Gang management has full discretion to approve or deny the rebrand request.
-
-# Third Instance:
-
-Substantial Fee: A very large rebranding fee will be applied.
-
-Demotion: A demotion of at least one rank within the gang will occur, in addition to the fee.
-
-Approval Requirement: Again, a minimum number of original gang members must be present for rebranding approval.
-
-Severe Consequences: Multiple rebrands show a lack of consistency and can have a long-term impact on your gang’s reputation and position. Gang management will carefully review the situation before approval.
-
 
 ***
 
 ***Additional Note:***
 
-If multiple high-ranking members or leaders leave the gang, the rebranding request may still be denied. The gang may not retain the same rank or position if the original leadership has departed, as we don’t want individuals to maintain rank when the original members are no longer involved.
+If multiple high-ranking members or leaders leave the gang, the rebranding request may still be denied and a disband may take place. The gang may also be asked to start from Trial Crew again if the disband does not occur due to the original people no longer being a part of the group.
 
 ***
 
 **⚠️ What to Keep in Mind**
 
-* Rebranding may **impact your current rank or tier**
-  * If you're changing core elements of your crew, you may be **moved down temporarily** until the new identity proves itself
+* Rebranding will **impact your current rank or tier**
+* If you're changing core elements of your crew, you **MUST** roleplay the change, no switching from one lifestyle to another without storyline build up and reasoning.
 * You can’t rebrand just to dodge heat or conflict — that’ll get shut down quickly
 
 ***
