@@ -11,7 +11,7 @@ We use smart, behavior-based systems to detect cheating. We flag for:
 - 🎯 Impossible weapon accuracy or movement
 - 🧠 Inhuman reaction speeds or inputs
 - 💻 Script injections or unauthorized commands
-- 🧩 Known cheat exploit signatures We do not automatically ban players. Every case goes through manual staff review.
+- 🧩 Known cheat exploit signatures. We do not automatically ban players. Every case goes through manual staff review.
 
 ### 🔍 PC Checks (With Consent Only)
 
@@ -84,13 +84,13 @@ Include:
 We will never:
 - Use spyware or remote access
 - Ask you to download anything that we wouldn't download ourselves
-- Ban based solely on another server’s records
+- Ban based solely on another server’s records (unless it is an anticheat global ban)
 
 ### 📈 Community Transparency
 
 We earn trust by being upfront—not just saying “trust us.”
 
-### 🧾 By Playing on  Zephyr, You Agree To:
+### 🧾 By Playing on Zephyr, You Agree To:
 
 - Respect fair play and server integrity
 
@@ -104,9 +104,9 @@ We earn trust by being upfront—not just saying “trust us.”
 
 📌 In-game:
 
-/report \[playerID] \[reason]
+/report > Create ticket > Explain situation in detail including the /ids of the suspicious player.
 
-📌 Discord Tickets: [Support Ticket Channel](https://discord.com/channels/1317664006768558142/1317674367542493185)
+📌 Staff Portal: [Zephyr Portal]((https://portal.zephyrroleplay.com))
 
 🚫 No public callouts or witch hunts—let staff handle it professionally.
 
