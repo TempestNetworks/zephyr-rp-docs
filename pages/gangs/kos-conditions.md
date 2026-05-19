@@ -92,9 +92,9 @@ If you put yourself in a gang situation while on timer, you are fair game and st
 
 If you die in a conflict you should be taking off your gang clothing before leaving the inside of the hospital to avoid any confusion.
 
-## ➕ Joining Active KOS / Rosters
+## ➕ Joining Active Hostilities
 
-Players cannot be added, “plused on,” or brought into an active KOS after the conflict has already started.
+Players cannot be added, “plused on,” or brought into an active KOS after the conflict has already started (This is not restricted to official dec shootings)
 
 You cannot call in extra members purely to gain numbers once fighting has already begun.
 
