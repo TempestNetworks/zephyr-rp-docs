@@ -1,4 +1,4 @@
-🎭 Fail RP  
+# 🎭 Fail RP  
 Fail RP refers to actions that break immersion, realism, or logical roleplay expectations.  
 Players are expected to value their character’s life, injuries, and the world around them at all times.
 
