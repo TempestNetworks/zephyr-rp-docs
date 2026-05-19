@@ -4,12 +4,13 @@ Breaking into another crew’s compound isn’t just some petty robbery — it�
 
 ***
 
-**Rulings are as follows:**
-• You MUST reach out and ask permission to purchase a breaching tool off Madrazo.
-• Significant prior built-up RP must be provided before approval will be considered.
-• Any petty or low-quality reasoning such as early hostilities before any attempt at resolution or RP progression will result in denial and a cooldown on purchasing or attempting to purchase the tool.
-• Once purchased, the breaching tool will last for 12 hours only. From the time of purchase, you have 12 hours to complete your breach.
-• STRICTLY NO reselling, transferring, or sharing of breaching tools. If caught, your entire gang/org will be permanently blacklisted from purchasing future breach tools.
+**🧨 Breaching Tool Rulings
+
+* You MUST reach out and ask permission to purchase a breaching tool off Madrazo.
+* Significant prior built-up RP must be provided before approval will be considered.
+* Any petty or low-quality reasoning such as early hostilities before any attempt at resolution or RP progression will result in denial and a cooldown on purchasing or attempting to purchase the tool.
+* Once purchased, the breaching tool will last for 12 hours only. From the time of purchase, you have 12 hours to complete your breach.
+* STRICTLY NO reselling, transferring, or sharing of breaching tools. If caught, your entire gang/org will be permanently blacklisted from purchasing future breach tools.
 
 This system is designed to encourage **high-quality roleplay** and serious conflict progression. Abuse of the system will not be tolerated.
 
