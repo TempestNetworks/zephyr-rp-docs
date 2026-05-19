@@ -4,6 +4,8 @@ Zephyr is a roleplay-first server — and that includes how you handle problems.
 
 In most cases, the answer should be yes.
 
+All rule-breaches must be reported within **24 hours** of the event taking place, revenge reporting is NOT permitted. 
+
 ***
 
 **🎭 Let RP Lead the Way**
