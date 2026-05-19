@@ -4,15 +4,20 @@ Hostile roleplay is a core part of criminal interaction within Zephyr City. Thes
 
 ## General Hostile RP
 
-* Hostile RP cannot be initiated on players engaged in legal activities without meaningful interaction beforehand.
+* Hostile RP **cannot** be initiated on players engaged in legal activities without meaningful interaction beforehand.
 
 * Red Zones operate as shoot on sight areas.
 
-* Boot-checking is not permitted unless meaningful RP occurred prior.
+* Boot-checking is not permitted unless meaningful RP occurred prior
+  - Example:
+     - Active conflict/KOS (The vehicle must be directly involved in the scene)
+     - If they have stored items in their glovebox to avoid being robbed mid hostility 
 
-* Using one-way bullet-resistant windows to gain combat advantage is strictly prohibited.
+* Using one-way bullet-resistant windows to gain combat advantage is strictly prohibited
+  - Example:
+     - Reversing one-ways up to a person who is shooting at you to avoid being shot
 
-* Killing a player after robbing them breaks the NITRP rule and is not allowed.
+* Killing a player after robbing them breaks the NITRP rule and is not allowed
 
 * Players may not kill someone then rob them — exception: Cayo Perico.
 
@@ -22,19 +27,21 @@ Hostile roleplay is a core part of criminal interaction within Zephyr City. Thes
 
 * Hostages cannot be taken solely for financial gain.
 
-* ***HELMET'S ARE NOT TO BE USED IN HOSTILITY'S***
+* Helmet's are not to be worn during hostilities.
 
 ## Robberies & Theft
 
 Robberies may only be carried out with a **valid roleplay reason** — not for convenience or personal gain.
+ - Example:
+    - Active ongoing conflict/KOS
+    - Illegal activities in your turf
 
 ### General Rules
-- You may only take items **relevant to the situation**.
+- You may only take items that are relevant to the situation. For example, if you catch someone selling drugs in your territory, you may take items such as drugs, weapons, or dirty money connected to that activity.
 - All robberies must be supported by **meaningful RP**.
 - Staff may request proof of RP build-up at any time.
 
 Robberies **require clear RP build-up** and you must be able to provide proof if asked
-- Drug selling
 - Boosting contracts
 - House robberies
 - Debt collection
@@ -43,6 +50,7 @@ Robberies **require clear RP build-up** and you must be able to provide proof if
 The following are considered **inherently high-risk illegal activities** and **do not require clear RP build-up**
 - Drug manufacturing or processing
 - Illegal crafting benches
+- Selling drugs
 
 ### Killing & Robbing
 - Killing a player and then robbing them is **strictly prohibited**, except on **Cayo**.
@@ -72,18 +80,16 @@ You may **NOT**:
 
 * Police investigations and arrests
 
-* Hostile RP cannot be initiated on active workers who are:
+**Hostile RP cannot be initiated on active workers who are:**
 
 * Clocked on duty
 
 * Clearly in uniform
-
-* Workers may not use the business property to avoid an active situation (e.g., barricading themselves inside or clocking on/off mid-scenario).
+  - Workers may not use the business property to avoid an active situation (e.g., barricading themselves inside or clocking on/off mid-scenario).
 
 ## Storage Security
 
-* Passwords for containers, houses, gang storage, and any shared storage are given out at your own risk.
-
+* Passwords for containers, houses and any shared storage are given out at your own risk.
 * Be cautious with who you trust and where you discuss sensitive information.
 
 ## Restart Restrictions
@@ -97,7 +103,6 @@ You may **NOT**:
 ## Heist Rules
 
 * Heists may include a maximum of 6 participants.
-
 
 * Outfits must match, but gang clothing is not required.
 
@@ -149,7 +154,7 @@ You may **NOT**:
 
 ## Vehicle Combat
 
-**Alllowed**
+**Allowed**
 
 * Using cars to block people in areas 
 
