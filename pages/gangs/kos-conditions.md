@@ -1,6 +1,8 @@
 # ⚔️ KOS Conditions
 KOS is the most serious form of escalation in Zephyr. It’s not meant to be used lightly — it’s the end result of deep tension, real conflict, and roleplay that’s reached its breaking point. Think of it as the last chapter in a long story, not the first page.
 
+During ANY hostilities you are to be in your hostile VC and not appearing offline, failure to do so will result in metagaming punishments.
+
 ## How to Set Up a KOS
 All KOS must be sorted in-city through proper RP. A few valid ways to handle this:
 
@@ -41,25 +43,25 @@ Also the two gangs can agree to Be in constant KOS in the days leading up to the
 
 Both sides NEED to Agree to all terms of the formal Declaration before its Accepted by staff if both sides cant agree staff will set all parameters.
 
-## Solo Players Aren’t Free Targets
+Solo players are not free targets
 You can’t just KOS someone because of what they’re wearing.
 Make sure the RP is there to back it up.
 
-🏥 Hospitals and Buisnesses and other green zones
+## 🏥 Hospitals, Businesses and Other Greenzones
 
-No camping outside Green Zones
+* No camping outside Green Zones
 
-No ambushing players entering/exiting
+* No ambushing players entering/exiting
 
-No shooting into or out of Green Zones. unless its an ongoing situation and someone has run into the green zone.
+* No shooting into or out of Green Zones. unless its an ongoing situation and someone has run into the green zone.
 
-No running into Green Zones to escape fights you started. if you run into a green zone you are not instantly protected. you can still be dealt with accordingly this is to avoid people from abusing them.
+* No running into Green Zones to escape fights you started. if you run into a green zone you are not instantly protected. you can still be dealt with accordingly this is to avoid people from abusing them.
 
-No using the fact you are in a Green zone to talk smack and run your mouth because you are "safe"
+* No using the fact you are in a Green zone to talk smack and run your mouth because you are "safe"
 
-If you enter a green zone in a hostile scene the greenzone does not apply.
+* If you enter a green zone in a hostile scene the greenzone does not apply.
 
-Green zones should be avoided if in a KOS and other hostile scenes to limit civilian and other groups not in the KOS being affected.
+>Green zones should be avoided if in a KOS and other hostile scenes to limit civilian and other groups not in the KOS being affected.
 
 ## 🚫 Don’t Take Advantage of KOS
 
