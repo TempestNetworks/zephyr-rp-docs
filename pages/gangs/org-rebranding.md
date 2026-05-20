@@ -9,8 +9,8 @@ Crews grow, evolve, and sometimes outgrow their name or image — and that’s t
 Any group undergoing a rebrand will be moved back one progression stage.
 
 Examples:
+• Syndicate → Org
 • Org → Crew
-• Crew → Trial Crew
 
 In-City Fee: A standard rebranding fee will be applied. Fee to be decided at the time of rebrand. 
 
@@ -22,7 +22,11 @@ Discretion: Final approval will be based on gang management's discretion.
 
 ***Additional Note:***
 
+If a group has already passed their trial phase they will not be demoted back to trial, instead they may have their time as crew extended.
+
 If multiple high-ranking members or leaders leave the gang, the rebranding request may still be denied and a disband may take place. The gang may also be asked to start from Trial Crew again if the disband does not occur due to the original people no longer being a part of the group.
+
+
 
 ***
 
