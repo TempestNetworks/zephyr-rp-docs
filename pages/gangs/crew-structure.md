@@ -53,7 +53,8 @@ It is the leader’s responsibility to ensure that all tagged members are aware 
 
 To prevent roster abuse, the following cooldowns apply:
 
-* **Returning after soft PK or removal & disbands:** 3-day gang cooldown period
+* **Joining another gang after soft pk or disband:** 1 week gang cooldown period
+* **Returning to the gang you were just pk'd from:** 2 week gang cooldown period
 
 Cooldowns are enforced server-wide and may only be waived with Gang Staff approval.
 
@@ -67,8 +68,9 @@ The organization losing a member in the patch over is entitled to respond with h
 
 **☠️ Soft PKs vs Hard PKs**
 
-* **Soft PK (Partial Death):**
+* **Soft PK (Partial Death/Bleed Out):**
   * You forget the events of the scenario and lose all memory related to the interaction.
+  * You forget all information related to the gang you've just been bled out of
   * You may not seek revenge or retaliate based on the event.
 * **Hard PK (Full Death):**
   * You permanently lose your character and any ties to the gang or storyline.
