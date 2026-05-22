@@ -1,97 +1,181 @@
-# ❌ Strike System
+# ⚖️ Gang Strike & Enforcement System
 
-The Strike System is designed to keep crews in line — not through instant bans or warnings, but through **immersive punishments** that make you feel the weight of your actions in-city.
+This system exists to protect the quality, fairness, and integrity of roleplay within Zephyr. Gangs are expected to contribute positively to the server environment at all times.
 
-Rather than jump straight to disbandment, crews are hit where it hurts: their time, resources, and rep. Strike penalties scale with severity and are handled **IC where possible**, unless the situation requires direct staff escalation.
+Strikes are designed to remove poor-quality groups from the ecosystem quickly. Repeated issues, toxic behaviour, or rulebreaks will result in escalating restrictions, heavy in-city punishments, and eventual disbandment.
 
-***
+Ignorance, “heat of the moment”, or blaming individual members will not exempt gangs from punishment.
 
+---
 
-# Minor Strikes for Gangs: 
-Minor strikes will be issued for poor behavior, rule violations, or issues in the city. This includes:
+# 🟡 Minor Strikes
 
-* Poor or no RP
+Minor Strikes are issued for behaviour that negatively impacts the roleplay environment, including but not limited to:
 
-* Bad behavior during gang-to-gang conflicts
+- Poor or low-quality roleplay
+- Win mentality
+- Excessive aggression or escalation
+- Poor interactions with PD, gangs, or civilians
+- Rulebreaks during hostile situations
+- Toxicity, baiting, or antagonistic behaviour
+- Failure to follow gang standards
+- Disruptive conduct within the city
 
-* Poor interactions with PD or civilians
+> This list is not exhaustive. Gang Management may issue strikes at staff discretion.
 
-* Any other infractions that disrupt the experience or violate server rules
+---
 
-***Note:*** This list is not exhaustive, and minor strikes can be issued for any other interactions in the city at staff discretion.
+## 🔒 Minor Strike Punishments
 
-# In-City Fee for Minor Strikes:
+### 1st Minor Strike
+- $10,000,000 in-city debt
+- 3 day hostile cooldown
+- Mandatory gang task assigned by staff
+- Gang placed under monitoring
 
-If your gang accumulates minor strikes, the following in-city fees will be applied:
+### 2nd Minor Strike
+- $15,000,000 in-city debt
+- 5 day hostile cooldown
+- Mandatory large-scale resource collection task
+- Loss of selected gang privileges
 
-1st Minor Strike: 3 Million
+### 3rd Minor Strike
+- Automatically converts into a Major Strike
+- Additional punishment may apply depending on severity
 
-2nd Minor Strike: 5 Million
+> Minor Strikes remain active for 30 days.
 
-3rd Minor Strike: 8 Million
-After 3 minor strikes, your gang will receive a Major Strike.
+---
 
-# Major Strikes for Gangs:
+# 🔴 Major Strikes
 
-Major strikes will still be issued for severe infractions, regardless of the number of minor strikes. The consequences are as follows:
+Major Strikes are issued for severe or repeated misconduct.
 
-1st Major Strike: 12 Million fee and a one-week hostile cooldown (your gang cannot engage in hostile actions during this time).
+Examples include:
+- Organised rulebreaking
+- Severe toxicity
+- Repeated poor RP after prior punishment
+- Exploiting mechanics
+- Mass disruption of server RP
+- Encouraging toxic gang culture
+- Serious hostile violations
+- Repeated reports involving the same members
 
-2nd Major Strike: 15 Million fee, a one-week hostile cooldown, and possible demotion of your gang’s standing within the server.
+---
 
-A third major strike will result in removal of your gang from the server.
+## ⛓️ Major Strike Punishments
 
-# Strike Duration:
+### 1st Major Strike
+- $40,000,000 in-city debt
+- 14 day hostile cooldown
+- Mandatory gang-wide punishment task
+- Immediate gang standing demotion
+- Gang leadership review
 
-The first major strike will last 30 days, and the second major strike will last 60 days.
+### 2nd Major Strike
+- $60,000,000 in-city debt
+- 14 day hostile cooldown
+- Heavy restrictions placed on the gang
+- 14 day outlaw order from PD
+- Final warning status
 
-***Warning System:***
-There is no warnings Instead, minor strikes will allow us to address issues earlier. However, if a situation is severe enough, a gang can still receive a Major Strike directly, bypassing the minor strike system.
+### 3rd Major Strike
+- $100,000,000 in city debt
+- Immediate gang disband
 
-***Please ensure your gang maintains good behavior and RP throughout all interactions in the city—whether with other gangs, PD, or civilians. Our goal is to keep everything fun, fair, and balanced. If you have any questions or concerns, feel free to reach out.***
+> Major Strikes remain active for 90 days.
 
+---
 
-***
-# Gang Cheating & Exploits Policy
+# ☠️ Hostile Cooldowns
 
-Gangs are responsible for the actions of their members. Any form of cheating, exploiting, or knowingly benefiting from cheats (including third-party software, glitches, or bypassing game mechanics) will result in strikes against the gang as a whole.
+During hostile cooldowns, gangs may not:
 
-## Strike Structure:
+- Declare wars
+- Participate in organised hostile actions
+- Use hangarounds/proxy groups to continue conflict
+- Bait hostile situations
+- Camp rival gangs or PD
+- Circumvent cooldowns through loopholes
 
-***2 members caught*** → Minor Strike
+> Attempting to bypass a cooldown will result in additional strikes or direct escalation to a Major Strike.
 
-***4 members caught*** → Major Strike
+---
 
-***6 members caught*** → Immediate Gang Disband
+# 📦 Punishment Tasks / Community Labour
 
-## Strike Duration:
+Punishment is not purely financial.
 
-* Each player caught cheating will remain counted toward the gang’s total for 90 days.
+Gangs issued strikes may be required to complete large-scale in-city labour tasks assigned by Gang Management. These tasks are designed to act as RP consequences and force gangs to actively work off their debt.
 
-* After 90 days, that player’s count will drop off automatically.
+Examples include:
+- Collecting large quantities of materials/items
+- Supplying businesses
+- Errand runners for Madrazo's
 
-## Staff Discretion:
+> Failure to complete assigned tasks by the deadline may result in extended hostile cooldowns, additional strikes, suspension of gang privileges, or gang disbandment in severe cases.
 
-Gang staff reserves the right to issue double Minor Strikes in situations where the severity, coordination, or impact of the cheating justifies it.
+---
 
-## Important Notes:
+# 🚫 Gang Cheating & Exploit Policy
 
-* Only confirmed cases with evidence will be counted.
+Gangs are responsible for who they recruit and associate with.
 
-* Gang leadership is expected to actively prevent cheating within their group.
+Any form of cheating, exploiting, item spawning, duplication, bypassing mechanics, or knowingly benefiting from unfair advantages will result in gang punishment.
 
-* Claiming ignorance of a member’s actions will not exempt the gang from punishment.
+This includes:
+- Third-party software
+- Duplication or exploit abuse
+- IRL trading
+- Spawned items or money
+- Assisting or protecting cheaters
+- Benefiting from exploited assets
+- Organised abuse of server systems
 
-* Staff reserves the right to escalate action in extreme or repeat cases.
+---
 
+## ⚠️ Cheating Strike Structure
 
-***This policy exists to maintain fairness and protect the integrity of roleplay on Zephyr.***
+### 1-2 Confirmed Member
+- Immediate Minor Strike
 
+### 3 Confirmed Members
+- Immediate Major Strike
 
-***
-# Other ways to get Disbanded:
+### 4+ Confirmed Members
+- Immediate gang disband
 
-* Community disruption & toxicity after receiving an informal & formal warning for it.
-* Direct threat towards players or staff & severe disrespect. An org will be instantly disbanded if doxxing, leaking, IRL trading & members cheating and participating in the spawning of items with IRL trading and exploitation of the server.
+Gang Management reserves the right to:
+- Skip strike stages
+- Double punishments
+- Permanently blacklist gangs from reforming
+- Instantly disband groups involved in severe cases
 
-This system is here to **create tension, not kill RP**. But if you're not contributing to the world — or worse, actively harming it — your crew will feel the consequences.
+> Severe cheating cases, organised cheating groups, or gangs knowingly protecting cheaters may result in immediate disband without progression through the strike system.
+
+---
+
+# ☠️ Immediate Disband Offences
+
+The following may result in instant disbandment without warning:
+
+- Doxxing
+- IRL threats
+- Coordinated harassment
+- Severe community toxicity
+- Organised cheating
+- IRL trading operations
+- Item spawning/distribution
+- Staff intimidation or targeted abuse
+- Severe exploitation of server systems
+- Any behaviour deemed severely damaging to Zephyr
+
+---
+
+# 📌 Final Statement
+
+Gang status within Zephyr is a privilege, not a right.
+
+Groups that consistently lower RP standards, damage the community environment, or create repeated issues will be removed swiftly.
+
+Our goal is to reward gangs that contribute positively to the server while ensuring groups that harm the experience face meaningful consequences.
