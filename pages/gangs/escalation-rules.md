@@ -1,94 +1,136 @@
-# 💣 Escalation Rules
-In Zephyr Roleplay, conflict isn’t about who shoots first — it’s about building tension, telling a story, and giving RP a chance to breathe. Every gang conflict must follow a natural progression, with words first, weapons last.
+# 💣 Escalation & Standing Your Ground Rules
 
-Failing to follow proper escalation may lead to the delay of progression of your org, with the possibility of staff intervention. 
+In Zephyr Roleplay, conflict is about building tension, telling a story, and creating meaningful roleplay — not rushing straight into shootouts. Gang conflict should progress naturally, with each stage allowing room for RP, consequences, and resolution.
 
-## 🗣️ 1. Talk It Out – Words First
+Failure to follow proper escalation may result in staff intervention and may impact the progression of your group.
 
-EVERY conflict starts with a conversation.
+---
 
-Leaders must make a genuine effort to resolve tensions through a sit-down or confrontation
-Hostilities cannot begin without clear in city reasoning or interaction
-Disrespect, ego, or unresolved disputes are valid RP fuel — but they must be voiced
-Think: “Let’s meet at the pub and talk this out” — not “See you at the morgue.”
+# 🗣️ 1. Verbal Escalation – Words First
 
-## 🥊 2. Melee Escalation – Show of Strength
+All conflict must begin with roleplay and conversation.
 
-If words fail, and egos flare, it’s time to settle it the old-fashioned way.
-
-Fists, bats, and melee weapons are the next logical escalation,This stage should still allow for resolution without permanent consequences Gang-on-gang scraps, body shots, and fights for honour all fall under this
-
-* This part of the escaltion should run for a realistic time in most situations, not just one and done use the melee phase to build RP
-
-* Some beefs only require melee fights to sort out
-
-* there may be situations where melee escalation alone is not enough, but this does not give permission to skip straight to shooting. Even when a scene naturally escalates past melee, players are still expected to show proper, believable roleplay, demonstrating fear, pressure, and the build-up that justifies the escalation.
-
-A brawl settles tension — or starts the real war.
-
-## 🔫 3. Weapon Conflict – Point of No Return
-
-Only after failed talks and a melee conflict (or ambush) can it escalate to firearms, so long as both groups agree.
-
-Shootouts, drive-bys and ambushes with weapons must be properly justified
-Declaration must still occur — no silent kills, sniping, or one-sided wipeouts without RP lead-up
-If all melee conflict fails to resolve the issue, then you may escalate — but it must be done with strong, creative RP.
+- Leaders are expected to make genuine attempts to resolve issues through meetings, confrontations, or sit-downs.
+- Hostilities cannot begin without clear in-city reasoning or interaction.
+- Disrespect, tension, ego, or ongoing disputes are valid reasons for conflict — but they must be roleplayed properly.
 
 Examples:
+- Calling a meeting to settle issues
+- Pressuring another group over territory or business
+- Threats, intimidation, or demands
 
-* Take someone’s radio and send a message through their own member.
+Conflict should feel like a developing story, not random violence.
 
-* Stab a member, drop them, and let the ripple effect unfold.
+---
 
-* Build tension in a way that feels earned and story-driven.
+# 🥊 2. Physical Escalation – Show of Strength
 
-* A single phone call saying “on sight” is lazy RP and won’t fly.
+If talks fail, conflict may escalate into physical violence.
 
-* Once the bullets fly, there's no turning back.
+This includes:
+- Fist fights
+- Melee weapons
+- Gang-on-gang scraps
+- Physical intimidation or beatings
 
+This stage should still allow opportunities for resolution and further roleplay before firearms are introduced.
 
-## Fearing for Life and standing your ground
-In Zephyr, you are always expected to fear for your life and the lives of your gang members. If you’re faced with real danger, outnumbered, caught off guard, injured, or held at a clear disadvantage, you must react realistically. Failing to show fear, acting like you’re untouchable, or ignoring danger will be treated as Failing Fear RP.
+### Important
+- Some conflicts may naturally end during this phase without progressing further.
+- Even if tensions continue rising, players are still expected to roleplay fear, pressure, anger, and consequences realistically.
+- If the original cause of the conflict began with shooting this can be cause to move through this step quicker eg, taking hostages, robbing. 
+> This does not mean every scenario involving guns needs to skip to guns, meetings can still be held and melee's/fist fights can be used.
 
-However…
+A fight should build the story — not skip it.
 
-🛑 Standing your ground is allowed — but only in the right situations. You may stand your ground ONLY when someone is trying to take something that belongs to your group, such as:
+---
 
-* Your turf
+# 🔫 3. Firearm Escalation – Point of No Return
 
-  * A market you control (E.G Benchs or drugs you are trying to hold)
+Only after proper escalation through roleplay and physical conflict may situations escalate into firearms.
 
-BUT standing your ground does not mean acting childish, refusing RP, or just saying “nah not happening.” You must still roleplay correctly and keep the scene going. Standing your ground can still lead to injuries, members being killed, or your group taking heavy losses — and you are expected to RP all of that properly.
+Examples include:
+- Shootouts
+- Drive-bys
+- Armed ambushes
 
-**The rules are simple:**
+### Requirements
+- Firearm escalation must be properly justified through prior RP.
+- Silent killings, instant wipeouts, or random “on sight” behaviour without meaningful lead-up are not considered quality RP.
+- Conflict should feel earned and story-driven.
 
-**Fear RP:** You must value your life and show fear when your life is in danger.
+Examples of acceptable escalation:
+- Sending threats through captured members
+- Injuring members to send a message
+- Applying pressure through meaningful RP interactions
 
-**Standing Your Ground:** You can defend what belongs to your group, but you must still fear for your life and play the scene out realistically.
+Once firearms are introduced, the conflict becomes significantly more serious and should be treated as such by all parties involved.  
+You are ALWAYS required to declare intent to shoot. 
 
-You are allowed to resist demands ONLY for turf, or markets (E.G Benchs or drugs you try hold down). Anything outside of that does not count as standing your ground and full Fear RP applies.
+---
 
-High-Quality RP Is Expected From Both Sides
-When scenes like this kick off — where one side is pressing, demanding, or trying to take control and the other is standing their ground — both sides are expected to bring their best RP.
+# ⚠️ Fear RP & Standing Your Ground
 
-That means:
+Players are always expected to value their life and roleplay fear realistically.
 
-**For the side applying pressure / instigating**
+If you are:
+- Outnumbered
+- Held at gunpoint
+- Injured
+- Ambushed
+- At a clear disadvantage
 
-* Be demanding, threatening, and intense in a realistic way.
+You are expected to react appropriately and realistically. Ignoring danger or acting invincible will be treated as Fail Fear RP.
 
-* If you escalate to violence, torture, or killing (e.g., taking fingers, shooting members), it must be played out seriously, not rushed or sloppy.
+However, standing your ground is allowed in specific situations.
 
-* Your actions should have purpose, weight, and consequences — not be done just for shock value.
+---
 
-***For the side being pressed**
+# 🏴 Defending Turf, Markets & Territory
 
-* Treat the situation seriously.
+Groups are permitted to stand their ground when defending things that directly belong to or impact their organisation, including:
 
-* If your members die, you should show shock, anger, fear, sadness — whatever fits.
+- Turf
+- Territory
+- Controlled markets
+- Benches
+- Drug operations
+- Ongoing business interests
 
-* If you’re being hurt, you must RP the pain. Don’t act like it’s nothing or walk it off unrealistically.
+This means it is **NOT automatically considered Fail Fear RP** to retaliate, resist demands, or defend your organisation during meetings or confrontations relating to those interests.
 
-* We don’t want scenes where someone gets hurt, tortured, or loses a member and just shrugs it off.We want thoughtful, emotional, immersive RP from both sides.
+For example:
+- Refusing to hand over territory
+- Defending a controlled market
+- Retaliating during a hostile sit-down regarding turf or business
 
-Let’s keep everything realistic, immersive, and high quality. Fear the danger. Defend what’s yours. And always keep the RP moving
+However, standing your ground does **NOT** mean:
+- Ignoring roleplay
+- Acting without fear entirely
+- Refusing to engage with the scene realistically
+- Treating your character as fearless or invincible
+
+You are still expected to:
+- Roleplay pressure and danger
+- React realistically to injuries or losses
+- Continue meaningful RP throughout the scene
+
+Standing your ground may still result in deaths, injuries, kidnappings, or major losses — and those consequences must be roleplayed properly.
+
+---
+
+# 🎭 High Quality RP Is Expected From Both Sides
+
+## For the Instigating Group
+- Apply pressure realistically.
+- Threats, torture, violence, or killings must have proper RP weight and purpose.
+- Actions should create story progression, not exist purely for shock value.
+
+## For the Defending Group
+- Treat losses and injuries seriously.
+- Roleplay emotional reactions appropriately.
+- Do not shrug off torture, shootings, or deaths unrealistically.
+
+Conflict should create immersive, emotional, and memorable roleplay for everyone involved.
+
+Fear the danger. Defend what’s yours. Keep the RP moving.
