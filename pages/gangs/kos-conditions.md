@@ -47,21 +47,28 @@ Solo players are not free targets
 You can’t just KOS someone because of what they’re wearing.
 Make sure the RP is there to back it up.
 
-## 🏥 Hospitals, Businesses and Other Greenzones
+## 🏥 Hospitals, Businesses & Other Green Zones
 
-* No camping outside Green Zones
+Green Zones are intended to protect civilians and unrelated roleplay, not to be used as protection during active hostilities.
 
-* No ambushing players entering/exiting
+### The following is not allowed:
+- Camping outside Green Zones
+- Ambushing players entering or exiting Green Zones
+- Using Green Zones to bait, provoke, or continue hostile behaviour while expecting protection
+- Running into Green Zones to forcibly end an active hostile scene
 
-* No shooting into or out of Green Zones. unless its an ongoing situation and someone has run into the green zone.
+### Ongoing Hostile Situations
+If a player flees into a Green Zone during an already active hostile situation, the scene may continue ONLY to the extent necessary to conclude the interaction.
 
-* No running into Green Zones to escape fights you started. if you run into a green zone you are not instantly protected. you can still be dealt with accordingly this is to avoid people from abusing them.
+This does NOT permit:
+- Extended shootouts
+- Camping hospitals or businesses
+- Large-scale violence inside Green Zones
+- Turning Green Zones into active warzones
 
-* No using the fact you are in a Green zone to talk smack and run your mouth because you are "safe"
+If you enter a Green Zone during an active hostile scene, Green Zone protection may no longer apply.
 
-* If you enter a green zone in a hostile scene the greenzone does not apply.
-
->Green zones should be avoided if in a KOS and other hostile scenes to limit civilian and other groups not in the KOS being affected.
+> Green Zones should be avoided during KOS and other hostile scenes wherever possible to prevent civilians and unrelated players from being affected.
 
 ## 🚫 Don’t Take Advantage of KOS
 
@@ -120,6 +127,10 @@ Being “on timer” does NOT let you:
 * Bait players
 
 * Hide behind green zones
+
+Players on timer should avoid active gang scenes, contested territory, organised retaliation, and hostile meetings entirely.
+
+Staff may still rule players valid targets if they intentionally place themselves within ongoing hostile situations.
 
 If you start or escalate a fight, your timer becomes void, and staff will enforce penalties. or kill players on timer
 
