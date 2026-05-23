@@ -2,15 +2,21 @@
 
 Hostile roleplay is a core part of criminal interaction within Zephyr City. These rules ensure engagements remain fair, meaningful, and grounded in proper roleplay.
 
+Meaningful roleplay refers to believable in-character interaction that creates context, tension, negotiation, escalation, or consequence prior to hostile actions.
+
+One-line threats, baiting, or low-effort interactions do not automatically qualify as meaningful RP.
+
+A player is considered involved in a hostile situation if they are actively participating in, assisting, supporting, transporting, scouting for, communicating for, or directly benefiting from the ongoing conflict.
+
 ## General Hostile RP
 
 * Hostile RP **cannot** be initiated on players engaged in legal activities without meaningful interaction beforehand.
 
-* Red Zones operate as shoot on sight areas.
+* Red Zones are exempt from standard hostile initiation requirements unless otherwise stated.
 
-* Boot-checking is not permitted unless meaningful RP occurred prior
+* Searching vehicle storage (boot-checking) without prior roleplay context or active involvement in the situation is not allowed.
   - Example:
-     - Active conflict/KOS (The vehicle must be directly involved in the scene)
+     - Active conflict/KOS (Vehicle must be directly involved. Vehicles are only considered directly involved if they are actively participating in, assisting with, or connected to the ongoing hostile situation.
      - If they have stored items in their glovebox to avoid being robbed mid hostility 
 
 * Using one-way bullet-resistant windows to gain combat advantage is strictly prohibited
@@ -23,11 +29,13 @@ Hostile roleplay is a core part of criminal interaction within Zephyr City. Thes
 
 * If a robbed player escalates to deadly force, lethal retaliation is permitted.
 
-* Hostages must have no personal or gang affiliation with the captor.
+* Hostages may not be intentionally arranged, pre-planned, or selected based on OOC cooperation or friendly affiliation.
 
-* Hostages cannot be taken solely for financial gain.
+* Hostage situations must create meaningful roleplay and may not exist purely as repetitive money-making methods.
 
-* Helmet's are not to be worn during hostilities.
+* Protective helmets intended to reduce or avoid headshot damage may not be intentionally used during hostile situations.
+
+* Players may not use OOC information, Discord discussions, streams, clips, or external communication to escalate, continue, or influence hostile roleplay.
 
 ## Robberies & Theft
 
@@ -37,7 +45,7 @@ Robberies may only be carried out with a **valid roleplay reason** — not for c
     - Illegal activities in your turf
 
 ### General Rules
-- You may only take items that are relevant to the situation. For example, if you catch someone selling drugs in your territory, you may take items such as drugs, weapons, or dirty money connected to that activity.
+- Items taken during robberies should reasonably relate to the roleplay scenario, criminal activity, or ongoing conflict.
 - All robberies must be supported by **meaningful RP**.
 - Staff may request proof of RP build-up at any time.
 
@@ -94,7 +102,8 @@ You may **NOT**:
 
 ## Restart Restrictions
 
-* No hostility may be initiated 30 minutes before or after a server restart.
+* Players may not engage in illegal activities 30 minutes before or after restarts.
+* Players may not intentionally stall, delay, or force hostile situations around restart periods to gain an advantage or avoid consequences.
 
 **Exemption: This restriction does not apply when**
 
@@ -106,7 +115,7 @@ You may **NOT**:
 
 * Outfits must match, but gang clothing is not required.
 
-* Players cannot interfere with, disrupt, or third-party another group’s heist under any circumstances.
+* Players or groups not directly involved in the setup or progression of a heist may not interfere for the purpose of creating conflict, stealing rewards, or inserting themselves into the scenario.
 
 ## Combat Rules
 
@@ -160,7 +169,7 @@ You may **NOT**:
 
 * You may use PIT's when chasing other cars but must be done @ 150km or under 
 
-* Boxing people in 
+Vehicle combat should focus on disabling, trapping, or stopping vehicles realistically — not using cars as unrealistic weapons or bumper cars.
 
 **Not Allowed**
 
@@ -180,5 +189,6 @@ You may **NOT**:
 ## Cayo Perico Island
 
 This is a **RED ZONE** — a complete **KILL ON SIGHT ZONE** (No Man’s Land).
+Standard hostile initiation rules do not apply on Cayo Perico unless otherwise stated by event or staff rulings.
 You are at full risk of being killed, robbed, or both. **All** items on your person are subject to being looted.
 
