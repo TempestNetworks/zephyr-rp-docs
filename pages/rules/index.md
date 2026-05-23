@@ -1,6 +1,21 @@
-# 📋 Server Rules & Guidelines
+## 📋 Server Rules & Guidelines
 
-Welcome to the Zephyr RP rules and guidelines section. These rules are designed to ensure a fair, fun, and immersive roleplay experience for all players.
+# 📖 Rule Interpretation & RP Standards
+
+Welcome to Zephyr Roleplay.
+Zephyr's rules are designed to support realistic, immersive, and high-quality roleplay.
+
+While all written rules must still be followed, players are expected to apply common sense and engage with situations in good faith rather than looking for technical loopholes or “gotcha” arguments.
+
+Roleplay quality, realism, and overall server health will always be considered when staff assess situations.
+
+This does NOT give permission to:
+- Ignore server rules
+- Force unrealistic roleplay
+- Justify poor behaviour through “good RP”
+- Use immersion as an excuse to break guidelines
+
+Staff may still intervene in situations where behaviour is technically within wording, but clearly goes against the intent of the rules or the quality standards of the server.
 
 ## 🎯 Overview
 
