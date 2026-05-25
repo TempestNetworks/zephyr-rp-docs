@@ -34,7 +34,7 @@ _You’ve built structure, claimed turf, and gained real presence._
 * **20-member** roster cap
 * **16-member** hostile cap
 * Custom **MLO** (Gang HQ, hideout, or storefront)
-* Access to Gang Helicopter 
+* Addition of Heli Garage for a fee
 * **8 custom clothing pieces** plus two accessory pieces
   - Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
   - Up to 4 texture variants per clothing piece
