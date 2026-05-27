@@ -15,8 +15,8 @@ A player is considered involved in a hostile situation if they are actively part
 * Red Zones are exempt from standard hostile initiation requirements unless otherwise stated.
 
 * Searching vehicle storage (boot-checking) without prior roleplay context or active involvement in the situation is not allowed.
-  - Example:
-     - Active conflict/KOS (Vehicle must be directly involved. Vehicles are only considered directly involved if they are actively participating in, assisting with, or connected to the ongoing hostile situation.
+  - Examples of valid RP:
+     - Active conflict/KOS (Vehicle must be directly involved. Vehicles are only considered directly involved if they are actively participating in, assisting with, or connected to the ongoing hostile situation.)
      - If they have stored items in their glovebox to avoid being robbed mid hostility 
 
 * Using one-way bullet-resistant windows to gain combat advantage is strictly prohibited
@@ -189,6 +189,7 @@ Vehicle combat should focus on disabling, trapping, or stopping vehicles realist
 ## Cayo Perico Island
 
 This is a **RED ZONE** — a complete **KILL ON SIGHT ZONE** (No Man’s Land).
-Standard hostile initiation rules do not apply on Cayo Perico unless otherwise stated by event or staff rulings.
-You are at full risk of being killed, robbed, or both. **All** items on your person are subject to being looted.
+* Standard hostile initiation rules do not apply on Cayo Perico unless otherwise stated by event or staff rulings.
+* You are at full risk of being killed, robbed, or both. **All** items on your person are subject to being looted.
+* If you start hostilities in the red zone and then flee back to the mainland you can be followed and killed but **NOT** robbed.
 
