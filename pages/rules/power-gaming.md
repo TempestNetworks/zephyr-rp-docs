@@ -19,4 +19,5 @@ Powergaming includes, but is not limited to:
 - Using diving tanks for illegal activities is strictly prohibited unless needed for a specific heist (take a outfit bag with you once you have completed the dive part)
 - Using items like skateboards during drug sales, pd chases or other illegal activities where it may give an unfair advantage
 - Drugs or Crafting exploits included but not limited to - growing /cooking indoors in areas that a restricted access areas example MLO, Interiors, exploiting the crafting bench distance, setting macro's to AFK farm any activity or step
+- Stancing vehicles in a way that gives an advantage when exiting the vehicle
 - ***You CAN NOT search bushes by spam tackling to try and find someone*** this is considered power gaming
