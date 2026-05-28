@@ -29,6 +29,7 @@ They **may not**:
 * Participate in any form of hostile RP (e.g. shootouts, spray contests, robberies)
 * Represent the crew in official situations (e.g. wars, vendor access)
 * Carry or use the gang's stash or equipment in conflict situations
+* Wear the gangs clothing or represent the crew (clothing that clearly identifies as "supporter clothing" for said gang may be exempt) 
 
 Attempting to "stack" with non-tagged members during conflict will result in disciplinary action.
 
