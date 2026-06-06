@@ -25,7 +25,9 @@ Alot of Situations should only require i single KOS to resolve. You should not b
 
 * Other small things
 
-If two gangs have had multiple different problems and KOS's and stuff is not resolving you can opt to do a formal Declaration which is three rounds of KOS in which are hosted by staff and allow both gangs to agree to different styles of combat example
+If two gangs have had multiple different problems and KOS's and stuff is not resolving you can opt to do a formal declaration which is three rounds of KOS hosted by staff.
+
+Examples:
 
 * Claiming style rounds
 
@@ -35,13 +37,17 @@ If two gangs have had multiple different problems and KOS's and stuff is not res
 
 * 30 minute kos rounds in the claiming script.
 
-Also the two gangs can agree to Be in constant KOS in the days leading up to the three rounds. Gangs can set parameters on this like times in which the KOS is on and other rules for example
+The two gangs can agree to be in constant KOS in the days leading up to the three rounds. Gangs can set parameters on this like times in which the KOS is on and other rules.
 
-* only KOS'ing between 7pm & 10pm
+Examples:
+
+* Only KOS'ing between 7pm & 10pm
 
 * Melee only KOS's in the days before
 
-Both sides NEED to Agree to all terms of the formal Declaration before its Accepted by staff if both sides cant agree staff will set all parameters.
+* Allowing/Not Allowing robbing during KOS
+
+Both sides are required to agree to all terms of the formal declaration before its accepted by staff, if both sides cant agree staff will set all parameters.
 
 Solo players are not free targets
 You can’t just KOS someone because of what they’re wearing.
@@ -118,6 +124,8 @@ Staff may remove players from the conflict or void situations where roster abuse
 
 ## Hostile Timer
 
+Hostile timers begin from the moment you wake up in hospital or are revived by EMS or the dirty doctors.
+
 Being “on timer” does NOT let you:
 
 * Start fights
@@ -134,6 +142,6 @@ Staff may still rule players valid targets if they intentionally place themselve
 
 If you start or escalate a fight, your timer becomes void, and staff will enforce penalties. or kill players on timer
 
-The hostile Timer is default 30 minutes for Beefs and KOS but two gangs can agree to have shorter or no hostile cooldown timers. Ideally you should inform gang staff through your appropriate channels so they are aware if you have agreed to shorter timers.
+The hostile Timer is default 30 minutes for beefs and KOS but two gangs can agree to have shorter or no hostile cooldown timers. You should inform gang staff through your appropriate channels so they are aware if you have agreed to shorter timers.
 
 ***
