@@ -9,3 +9,8 @@ Repeatedly returning to ongoing shootouts, conflicts, police scenes, or hostile 
 ## ⚠️ Severe Injury / DOA Clause
 
 If your injuries are considered too severe to realistically justify revival, EMS may declare your character DOA (Dead on Arrival). In these situations, your character will be treated as fully deceased under NLR and you will lose all memory of the roleplay scenario and events leading up to it.
+
+## ⏳ Death Timer
+
+After dying in any hostile scenario you must wait **30 minutes** after respawning/being revived before returning to the area or re-engaging in that same scene.
+The only exception to this is if 2 groups have agreed to lower death timers in KOS.
