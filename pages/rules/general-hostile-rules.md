@@ -23,7 +23,10 @@ A player is considered involved in a hostile situation if they are actively part
   - Example:
      - Reversing one-ways up to a person who is shooting at you to avoid being shot
 
-* Killing a player after robbing them breaks the NITRP rule and is not allowed
+* Killing a player after robbing them breaks the NITRP rule and is not allowed}
+  - Example: 
+     - Handsing someone with the intent to rob them and then killing them because they didn't have something you wanted to take
+     - Taking items from them and then killing them without them escalating the scenario
 
 * Players may not kill someone then rob them — exception: Cayo Perico.
 
