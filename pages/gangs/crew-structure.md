@@ -79,9 +79,3 @@ The organization losing a member in the patch over is entitled to respond with h
   * Character must be fully deleted and wiped after Hard PK.
 
 All hard PKs must be agreed on between both parties, all agreements must be done in roleplay. Any form of discord agreements will be disregarded and waived entirely. You must have the agreement recorded and clipped through a clipping software which you may be required to provide at the request of Gang Staff.
-
-***
-
-**⏳ Death Timer**
-
-Upon death in a gang-related scenario, you must wait **30 minutes** before returning to the area or re-engaging in that same scene.
