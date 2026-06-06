@@ -194,6 +194,7 @@ Vehicle combat should focus on disabling, trapping, or stopping vehicles realist
 This is a **RED ZONE** — a complete **KILL ON SIGHT ZONE** (No Man’s Land).
 * Standard hostile initiation rules do not apply on Cayo Perico unless otherwise stated by event or staff rulings.
 * You are at full risk of being killed, robbed, or both. **All** items on your person are subject to being looted.
+* Vehicles left out in the redzone are subject to being robbed
 * If you start hostilities in the red zone and then flee back to the mainland you can be followed and killed but **NOT** robbed.
 * Anything originating from Cayo cannot then be used to initiate hostilities between groups.
 
