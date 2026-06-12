@@ -6,9 +6,6 @@ export default {
   "anti-cheat-policy": {
     title: "🛡️ Anti-Cheat Policy",
   },
-  "harassment-doxxing": {
-    title: "🚫 Harassment & Doxxing",
-  },
   cheating: {
     title: "🕵️‍♂️ Cheating",
   },
