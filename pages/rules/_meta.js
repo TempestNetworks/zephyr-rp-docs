@@ -3,6 +3,9 @@ export default {
   "respect-staff-community": {
     title: "🫡 Respect for Staff & Community",
   },
+  "player-safety": {
+    title: "🛡️ Player Safety",
+  },
   "anti-cheat-policy": {
     title: "🛡️ Anti-Cheat Policy",
   },
