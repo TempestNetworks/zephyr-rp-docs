@@ -9,8 +9,8 @@ export default {
   cheating: {
     title: "🕵️‍♂️ Cheating",
   },
-  "sexual-harassment": {
-    title: "🔞 Sexual Harassment & Inappropriate Content",
+  "harassment-doxxing": {
+    title: "🚫 Harassment & Doxxing",
   },
   "microphone-usage": {
     title: "🎙️ Microphone Usage",
