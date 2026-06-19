@@ -12,5 +12,5 @@ If your injuries are considered too severe to realistically justify revival, EMS
 
 ## ⏳ Death Timer
 
-After dying in any hostile scenario you must wait **30 minutes** after respawning/being revived before returning to the area or re-engaging in that same scene.
-The only exception to this is if 2 groups have agreed to lower death timers in KOS.
+After dying in any hostile scenario you must wait **15 minutes** after respawning/being revived before returning to the area or re-engaging in that same scene.
+This timer cannot be altered for any reason. 
