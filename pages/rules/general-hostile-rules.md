@@ -14,14 +14,14 @@ A player is considered involved in a hostile situation if they are actively part
 
 * Red Zones are exempt from standard hostile initiation requirements unless otherwise stated.
 
-* Searching vehicle storage (boot-checking) without prior roleplay context or active involvement in the situation is not allowed.
+* Searching vehicle storage (boot or glovebox checking) without prior roleplay context or active involvement in the situation is not allowed.
   - Examples of valid RP:
      - Active conflict/KOS (Vehicle must be directly involved. Vehicles are only considered directly involved if they are actively participating in, assisting with, or connected to the ongoing hostile situation.)
-     - If they have stored items in their glovebox to avoid being robbed mid hostility 
+     - If they have stored items in their glovebox to avoid being robbed mid hostility
 
 * Using one-way bullet-resistant windows to gain combat advantage is strictly prohibited
   - Example:
-     - Reversing one-ways up to a person who is shooting at you to avoid being shot
+     - Reversing one-ways up to a person who is shooting at you to avoid being shot (this includes helicopters)
 
 * Killing a player after robbing them breaks the NITRP rule and is not allowed}
   - Example: 
@@ -79,7 +79,22 @@ You may **NOT**:
   - Bait, provoke, or manipulate a hostage into becoming uncooperative
   - Use this rule to justify unnecessary item loss
 
+## Conflict Baiting
 
+Conflict baiting is the act of deliberately provoking, antagonising, harassing, taunting, or otherwise attempting to force another player, group, organisation, civilian, criminal faction, business, or government faction into a hostile interaction.
+
+### Examples include, but are not limited to:
+
+* Repeatedly insulting or provoking players with the intention of getting a hostile reaction.
+* Intentionally inserting yourself into disputes or conflicts that do not involve you.
+* Repeatedly attending locations, meetings, or scenes solely to create tension or provoke violence.
+* Using actions, words, or behaviour designed to pressure another party into initiating conflict so you can justify retaliation.
+* Attempting to manipulate another party into breaching rules or escalating a situation.
+* Deliberately creating situations intended to manufacture hostile roleplay outcomes.
+
+### Additional Information
+
+Staff will assess the intent, context, and overall circumstances of an interaction when determining whether conflict baiting has occurred. If your primary intention is to create, encourage, or escalate hostility rather than engage in meaningful roleplay, the interaction may be ruled as conflict baiting regardless of whether violence ultimately occurs.
 
 ## Player-Run Businesses
 
