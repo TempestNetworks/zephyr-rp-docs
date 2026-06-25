@@ -82,7 +82,7 @@ The meeting is only to clarify things afterwards.
 
 # Vendor Rules
 
-* Once you have secured a vendor you will have 3 days / 6 restarts to operate it without challenge or raid
+* Once you have secured a vendor you will have 10 days to operate it without challenge or raid
 
 * All Vendor access MUST be done in your appropriate Org Identifiers and treated with HOSTILE ROLEPLAY not KOS
 
