@@ -19,7 +19,9 @@ Any confirmed instances of harassment, doxxing, or threats involving personal in
 ---
 ## 🔞 Sexual Harassment & Inappropriate Content
 
-Sexual harassment, including any form of unwelcome sexual advances, comments, or content that creates an uncomfortable or hostile environment, is strictly prohibited. Any form of roleplay that involves non-consensual sexual acts, including but not limited to rape roleplay, is strictly forbidden. Roleplay scenarios that involve suicide, self-harm, or any content related to self-inflicted harm are not allowed.
+Sexual harassment, including any form of unwelcome sexual advances, comments, or content that creates an uncomfortable or hostile environment, is strictly prohibited. Any form of roleplay that involves non-consensual sexual acts, including but not limited to rape roleplay, is strictly forbidden. Roleplay scenarios that involve suicide, self-harm, or any content related to self-inflicted harm are not allowed. Inappropriate content restrictions also apply to your CFX/Steam name, discord profile content and any other profile that is public. 
+
+> Staff reserve the right to request any community members alter their profiles to meet community standards. 
 
 ---
 ## 🚫 Zero Tolerance Policy – Pedophilia Accusations
