@@ -11,6 +11,7 @@ Powergaming includes, but is not limited to:
 
 **Examples of Powergaming:**
 - Forcing a player to get medical attention to continue the scene (this excludes Police RP)
+- Unauthorized transfer of assets from jobs or cross characters
 - /me actions that remove another player’s ability to react
 - Declaring success without interaction (e.g. “I knock you out” without RP)
 - Listening to voices through walls and using that information if you're not in that conversation
