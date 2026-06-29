@@ -12,6 +12,7 @@ Fail RP includes, but is not limited to:
 - Ramming or pitting at speeds exceeding 150 KM/h  
 - Carrying whilst in the driver seat of ANY vehicle  
 - Using unrealistic full face paint or excessive facial makeup that promotes “fragger” style gameplay
+- Talking OOC/Breaking character (Using terms and language or references to "real life")
 
 Examples of Fail RP:
 
