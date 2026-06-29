@@ -32,3 +32,5 @@ All rule-breaches must be reported within **24 hours** of the event taking place
 ***
 
 We’re here to help when needed, but this is your story to build. Use RP as your first move, and tickets as your last resort.
+
+> Any abuse of ticket systems will result in staff action 
