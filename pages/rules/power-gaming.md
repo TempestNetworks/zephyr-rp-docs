@@ -22,4 +22,5 @@ Powergaming includes, but is not limited to:
 - Use of any macros/autoclickers or auto hot keys to do any task without player interaction
 - Stancing vehicles in a way that gives an advantage when exiting the vehicle
 - F8 Quitting mid scene or "Pulling the plug" (disconnecting your internet purposefully to cause a disconnect from the server)
+- Sitting on a jobrole to collect paycheck ticks without working
 - ***You CAN NOT search bushes by spam tackling to try and find someone*** this is considered power gaming
