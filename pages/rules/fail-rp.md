@@ -35,6 +35,7 @@ Low Quality RP includes, but is not limited to:
 - Creating hostilities with little to no prior interaction or build-up  
 - Prioritising gunplay over character development and roleplay  
 - Engaging in repetitive “fragger” style behaviour with minimal roleplay intent
+- Baiting any person or group into engaging in hostile RP over silly stuff
 - Interjecting in other players RP scenes unnecessarily 
    Example: Seeing someone in a police chase and ramming PD or the player being chased to impact the scene.
 
