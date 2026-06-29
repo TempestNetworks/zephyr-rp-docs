@@ -20,4 +20,5 @@ Powergaming includes, but is not limited to:
 - Using items like skateboards during drug sales, pd chases or other illegal activities where it may give an unfair advantage
 - Drugs or Crafting exploits included but not limited to - growing /cooking indoors in areas that a restricted access areas example MLO, Interiors, exploiting the crafting bench distance, setting macro's to AFK farm any activity or step
 - Stancing vehicles in a way that gives an advantage when exiting the vehicle
+- F8 Quitting mid scene or "Pulling the plug" (disconnecting your internet purposefully to cause a disconnect from the server)
 - ***You CAN NOT search bushes by spam tackling to try and find someone*** this is considered power gaming
