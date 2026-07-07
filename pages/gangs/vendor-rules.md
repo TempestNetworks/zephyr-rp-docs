@@ -24,9 +24,8 @@ Evidence can include:
 - Sufficient photographic evidence of crew members approaching and interacting with the vendor, such as knocking on the vendor's door.
 - Photographing players at the vendor while the NPC is conducting a transaction.
 
-{% hint style="info" %}
 The evidence must clearly identify the gang and demonstrate ownership/use of the vendor.
-{% endhint %}
+
 
 ---
 
@@ -34,9 +33,9 @@ The evidence must clearly identify the gang and demonstrate ownership/use of the
 
 Present all evidence to Madrazo for review and approval.
 
-{% hint style="warning" %}
+
 A Vendor War cannot proceed until Madrazo has signed off on the evidence.
-{% endhint %}
+
 
 ---
 
@@ -58,9 +57,9 @@ During this meeting:
 
 Following the declaration meeting, the gangs will enter a Street War period lasting **0–2 days**, as agreed during the meeting.
 
-{% hint style="info" %}
+
 If no-one can decide on a timeframe for the Street Wars, the default is **0**, and the declaration will proceed straight to the Vendor Claiming Script.
-{% endhint %}
+
 
 ---
 
