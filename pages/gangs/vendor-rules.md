@@ -15,68 +15,138 @@ Vendor and blueprint access is restricted based on your crew's tier, and misuse 
 
 ***
 
-**🧨 Vendor  Decs**
+# 🏪 Vendor Claiming Rules
 
-If you want to declare on someone’s vendor, you must follow these steps in order:
+## 📸 Gather Evidence
 
-## 1) Catch Them at the Vendor Door
+Evidence can include:
 
-You can ONLY declare if the owner is physically at their vendor door.
+- Sufficient photographic evidence of crew members approaching and interacting with the vendor, such as knocking on the vendor's door.
+- Photographing players at the vendor while the NPC is conducting a transaction.
 
-No declaring through texts, phone calls, or anywhere else.
+{% hint style="info" %}
+The evidence must clearly identify the gang and demonstrate ownership/use of the vendor.
+{% endhint %}
 
-## 2) Hold Them Up & Confirm It’s Their Door
+---
 
-You must prove they own the vendor.
-A simple way to do this:
+## 📑 Submit Evidence
 
-* Give them a vendor key
+Present all evidence to Madrazo for review and approval.
 
-* Make them knock or unlock the door
+{% hint style="warning" %}
+A Vendor War cannot proceed until Madrazo has signed off on the evidence.
+{% endhint %}
 
-* You must see that the key actually works on the door
+---
 
-The people who have the vendor must go ahead with this as failing to do so with guns on them is failing fear for life.
+## 🤝 Declaration Meeting
 
-## 3) Check What’s Inside the Vendor
+Once the evidence has been approved, both gangs must attend a non-hostile meeting.
 
-* Confirm what items are inside the vendor
+The terms of meeting should be done in front of at least **1 Hierarchy Madrazo** to ensure the meeting flows and reaches a result.
 
-* Make sure you know what you’re actually declaring on
+During this meeting:
 
-This stops people from making false or random declarations.
+- The declaration will be formally confirmed.
+- Both parties will discuss and agree on the terms of the conflict.
+- Any questions or concerns should be addressed before hostilities begin.
 
-## 4) Declare Right There on the Spot
+---
 
-Once it’s confirmed, you must declare at the door.
-Just say something clear like:
+## ⚔️ Street War Phase
 
-* “We’re coming for this door.”
+Following the declaration meeting, the gangs will enter a Street War period lasting **0–2 days**, as agreed during the meeting.
 
-* “We’re declaring on this vendor.”
+{% hint style="info" %}
+If no-one can decide on a timeframe for the Street Wars, the default is **0**, and the declaration will proceed straight to the Vendor Claiming Script.
+{% endhint %}
 
-## After you declare:
+---
 
-After the declaration is made, a meeting can happen if needed. This meeting can:
+## 🎯 Vendor Claiming Phase
 
-* Happen right at the vendor door right then and there if everyone agrees
+At the conclusion of the Street War, the conflict will transition into the **Vendor Claiming Script**, where ownership of the vendor will be contested under the server's Vendor War mechanics.
 
-* Be organised for later at a safe location
+---
 
-* what ever suits the RP scene
+## 🚩 Vendor Claiming Event
 
-This meeting is mainly for situations where:
+Both gangs will be placed into the Vendor Claiming Script.
 
-* The person caught at the door isn’t the leader of the group
+The vendor NPC (ped) at the vendor door is the claim objective.
 
-* The declaring group wants to speak with someone who has authority
+### Defending Gang
 
-* Both sides want to discuss terms, expectations, or avoid confusion
+- Spawns at their compound/area.
+- Will start the claiming at the vendor door and begin collecting claim progress immediately.
+- Respawns will be at their compound/area.
 
-The key point:
-➡️ The declaration MUST still be made at the door.
-The meeting is only to clarify things afterwards.
-***
+### Attacking Gang
+
+- Spawns at their compound/area.
+- Must push to contest the claim.
+
+---
+
+## 👥 Hostile Caps
+
+Each gang will bring their hostile cap based on their gang type:
+
+| Gang Type | Hostile Cap |
+| ---------- | ----------: |
+| Crew | 12 Players |
+| Organisation | 16 Players |
+| Syndicate | 20 Players |
+
+---
+
+## 🛡️ Vendor Defence
+
+If the defending gang successfully holds the vendor:
+
+- The vendor door will be moved that night by staff; **or**
+- The vendor cannot be declared on again until staff have moved the door.
+
+---
+
+## ❌ Failed Attack
+
+If the attacking gang loses the claim:
+
+- They may not declare on the same vendor again for **3 days**.
+- The vendor door will also be moved.
+
+---
+
+## ✅ Successful Attack
+
+If the attacking gang successfully claims the vendor:
+
+- The vendor door will be moved that night by staff; **or**
+- The vendor cannot be declared on again until staff have moved the door.
+- Once the door has been moved, a **5-day hostile cooldown** begins for that vendor.
+
+---
+
+## 💰 Vendor Sales
+
+If a vendor is sold to another gang:
+
+- The new owner receives a **3-day hostile protection period** before the vendor can be declared on.
+- The cooldown begins from the day the vendor door is moved.
+- A vendor that has been sold cannot be sold again for **10 days**.
+- This timer also begins from the day the vendor door is moved.
+
+---
+
+## 🏳️ Forfeiting a Vendor
+
+If a gang voluntarily gives up a vendor:
+
+- They will not be eligible to participate in the next Vendor Claiming Event for that vendor.
+- Gang Management may also impose a stand-down period before the gang is permitted to own another vendor.
+- The length of this stand-down period will be determined on a case-by-case basis by Gang Management.
 
 ***
 
