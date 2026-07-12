@@ -26,7 +26,15 @@ Evidence can include:
 
 The evidence must clearly identify the gang and demonstrate ownership/use of the vendor.
 
+Vendor Door Location Guidelines
+To ensure vendor conflicts remain fair and enjoyable for all groups, all vendor door locations must meet the following requirements:
 
+Ground Level Only: The vendor door must be located at ground level and be directly accessible without requiring players to use stairs, ladders, elevators, or other elevated access points.
+No Interior Locations: Vendor doors cannot be placed inside buildings or enclosed interiors. The door must be located in an open, exterior location.
+Minimum Distance from Compound: Vendor doors must be positioned at least 500 metres away from your gang's primary compound, headquarters, or regular hangout location.
+Fair and Contestable: Vendor door locations must not provide an unreasonable defensive advantage during vendor wars. Locations that create narrow choke points, heavily fortified positions, or areas that are excessively difficult to assault may be rejected by Gang Management. The intention is for both the attacking and defending groups to have a fair opportunity during a vendor declaration.
+
+Gang Management reserves the right to reject or require the relocation of any vendor door that does not meet these guidelines or is deemed unfair to the overall balance of conflict.
 ---
 
 ## 📑 Submit Evidence
