@@ -7,7 +7,7 @@ Vendor and blueprint access is restricted based on your crew's tier, and misuse 
 **🛒 Who Can Hold What?**
 
 * **Crews**
-  * May hold  a **Tier 1 weapon vendor****
+  * May hold  a **Tier 1 Vendor****
 * **Organisations**
   * May hold **either one Tier 2 vendor** _or_ **one Tier 3 vendor**
 * **Syndicated**
