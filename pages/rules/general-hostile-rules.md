@@ -210,7 +210,7 @@ Vehicle combat should focus on disabling, trapping, or stopping vehicles realist
 
 The Rob Zone is identified by the ROB ZONE tag displayed on the left side of your screen.
 
-Players cannot engage between the Red Zone and the Rob Zone. Engagements must remain within the same zone.
+Players cannot engage between the Crate Zone and the Rob Zone. Engagements must remain within the same zone.
 Players must not carry dead or alive players into or out of the Rob Zone.
 Helicopter pilots must be able to provide POV of any aerial engagement. This is non-negotiable.
 All helicopter pilots must be recording/clipping while flying. Failure to provide POV when requested will result in a Minor Strike for your group.
