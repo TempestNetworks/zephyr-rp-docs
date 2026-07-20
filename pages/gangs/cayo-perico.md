@@ -1,5 +1,6 @@
-Cayo Rules
-🚨 Rob Zone
+# Cayo Perico Rules
+
+**🚨 Rob Zone**
 
 The Rob Zone is identified by the ROB ZONE tag displayed on the left side of your screen.
 
@@ -10,12 +11,14 @@ All helicopter pilots must be recording/clipping while flying. Failure to provid
 Players may enter the Rob Zone by boat, helicopter, or on foot.
 No exchanges (players, hostages, loot, or other interactions) may occur between opposing zones. Engagements must remain within the same zone.
 Exploiting or intentionally abusing loopholes without reporting them to staff will result in a non-negotiable Minor Strike for your group.
-📦 Crate Zone
+
+**📦 Crate Zone**
 
 The Crate Zone is identified by the CRATE ZONE tag displayed on the left side of your screen.
 
 No robberies may take place within the Crate Zone.
 Crates are openly contestable by any player using any weapon, boat, or helicopter.
+
 Players killed within the Crate Zone cannot be moved or transported into the Rob Zone under any circumstances.
 Intent of These Rules
 
