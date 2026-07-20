@@ -15,6 +15,9 @@ export default {
   "escalation-rules": {
     title: "💣 Escalation Rules",
   },
+  "cayo-perico": {
+    title: "🏝️ Cayo Perico",
+  },
   "vehicle-guidelines": {
     title: "🚗 Vehicle Guidelines",
   },
@@ -41,5 +44,8 @@ export default {
   },
   tickets: {
     title: "🎟️ Tickets",
+  },
+  reporting: {
+    title: "📋 Reporting",
   },
 };
