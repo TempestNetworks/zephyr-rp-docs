@@ -55,7 +55,7 @@ It is the leader’s responsibility to ensure that all tagged members are aware 
 To prevent roster abuse, the following cooldowns apply:
 
 * **Joining another gang after soft pk or disband:** 1 week gang cooldown period
-* **Returning to the gang you were just pk'd from:** 2 week gang cooldown period
+* **Returning to the gang you were just pk'd from:** 1 week gang cooldown period
 
 Cooldowns are enforced server-wide and may only be waived with Gang Staff approval.
 
