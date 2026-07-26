@@ -202,11 +202,11 @@ Vehicle combat should focus on disabling, trapping, or stopping vehicles realist
 
 **Simply put KEEP CAR WARFARE CLEAN AND LIMIT THE BUMPER CAR STYLE RAMMING AND THE HIGH SPEED HITS**
 
+***
 
+# Cayo Perico Island
 
-## Cayo Perico Island
-
-🚨 Rob Zone
+## 🚨 Rob Zone
 
 The Rob Zone is identified by the ROB ZONE tag displayed on the left side of your screen.
 
@@ -219,7 +219,7 @@ No exchanges (players, hostages, loot, or other interactions) may occur between 
 Exploiting or intentionally abusing loopholes without reporting them to staff will result in a non-negotiable Minor Strike for your group.
 
 
-📦 Crate Zone
+## 📦 Crate Zone
 
 The Crate Zone is identified by the CRATE ZONE tag displayed on the left side of your screen.
 
@@ -230,4 +230,10 @@ Intent of These Rules
 
 These zones exist to create clear boundaries, reduce confusion, and ensure all engagements remain fair. Any attempt to exploit grey areas or circumvent the spirit of these rules may be treated as rule evasion and handled accordingly by staff.
 
+## Cayo Perico Group Rules
+
+- Non-gang-affiliated players may form groups of up to six (6) members to participate in Cayo Perico activities. This includes groups made up of friends from different gangs, provided they are attending as a non-gang group.
+- All members of a non-gang group must wear matching outfits while on Cayo Perico so they can be clearly identified as a single group.
+- Official gangs must not exceed their approved hostile cap while participating in Cayo Perico activities.
+- There is to be no teaming, alliances, or "hand-holding" between separate groups or gangs while on Cayo Perico. Each group or gang must operate independently.
 
