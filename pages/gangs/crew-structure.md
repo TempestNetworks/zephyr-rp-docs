@@ -63,9 +63,13 @@ Cooldowns are enforced server-wide and may only be waived with Gang Staff approv
 
 **Hostile Patch Over**
 
-Hostile patch overs are permitted but must be supported by strong, meaningful roleplay that clearly demonstrates the conflict. Prior to initiating a hostile patch over, approval must be obtained from gang management.
+- The initial meeting where a member is transferred from another gang must be treated as a hostile interaction. The receiving gang must clearly communicate that they are taking the member, and the original gang must be aware of this. As with any hostile interaction, this may escalate into a melee confrontation. 
+- The defending gang's objective is to protect the member involved in the HPO. Defenders must not actively hunt or pursue the attacking gang unless it is necessary to defend the member. 
+- Throughout the entire 48-hour HPO period, the member being patched over must wear a minimum of three visible identifiers associated with the defending gang (e.g. patch, colours, or approved clothing items). 
+These identifiers must remain on at all times while in the city. 
+- If the member involved in the HPO is successfully captured and permanently killed (PK'd) by the attacking gang during the 48-hour period, the HPO is considered un-successful. The member will receive the standard one-week gang cooldown."
 
-The organization losing a member in the patch over is entitled to respond with hostility toward the acquiring group. This should result in ongoing in-character conflict reflecting the nature of a hostile patch over.
+***
 
 **☠️ Soft PKs vs Hard PKs**
 
