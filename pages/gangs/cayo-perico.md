@@ -31,3 +31,12 @@ The Crate Zone is identified by the **CRATE ZONE** tag displayed on the left sid
 ## 💡 Intent of These Rules
 
 These zones exist to create clear boundaries, reduce confusion, and ensure all engagements remain fair. Any attempt to exploit grey areas or circumvent the spirit of these rules may be treated as rule evasion and handled accordingly by staff.
+
+***
+## Cayo Perico Group Rules
+
+- Non-gang-affiliated players may form groups of up to six (6) members to participate in Cayo Perico activities. This includes groups made up of friends from different gangs, provided they are attending as a non-gang group.
+- All members of a non-gang group must wear matching outfits while on Cayo Perico so they can be clearly identified as a single group.
+- Official gangs must not exceed their approved hostile cap while participating in Cayo Perico activities and also MUST wear their Gang clothing as per their gang hostile rules.
+- There is to be no teaming, alliances, or "hand-holding" between separate groups or gangs while on Cayo Perico. Each group or gang must operate independently.
+
