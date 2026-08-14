@@ -100,18 +100,18 @@ Staff will assess the intent, context, and overall circumstances of an interacti
 
 * Hostile RP inside a player-run business can result in RP consequences such as:
 
-* Business blacklisting
+  * Business blacklisting
 
-* Organisation blacklisting
+  * Organisation blacklisting
 
-* Police investigations and arrests
+  * Police investigations and arrests
 
 **Hostile RP cannot be initiated on active workers who are:**
 
-* Clocked on duty
+  * Clocked on duty
 
-* Clearly in uniform
-  - Workers may not use the business property to avoid an active situation (e.g., barricading themselves inside or clocking on/off mid-scenario).
+  * Clearly in uniform
+    - Workers may not use the business property to avoid an active situation (e.g., barricading themselves inside or clocking on/off mid-scenario).
 
 ## Storage Security
 
