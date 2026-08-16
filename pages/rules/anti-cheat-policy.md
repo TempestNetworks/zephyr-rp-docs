@@ -16,7 +16,8 @@ We use smart, behavior-based systems to detect cheating. We flag for:
 ### 🔍 PC Checks (With Consent Only)
 
 If a player is suspected of cheating and there is credible evidence or proof from other cities/servers, the player may be requested to complete a PC Check with the Zephyr Staff Team.
-If a player declines a PC check, which they are entitled to do, the Zephyr Team reserves the right to reassess the potential risk posed to the wider community. This reassessment may result in further action, including, but not limited to, the suspension or permanent ban of the player from participating within the Zephyr Community.
+If a player declines a PC check, which they are entitled to do, the Zephyr Team reserves the right to reassess the potential risk posed to the wider community. 
+This reassessment may result in further action, including, but not limited to, the suspension or permanent ban of the player from participating within the Zephyr Community.
 Players are not required to complete “deep-dive” PC checks with third parties or with zephyr staff.
 All evidence, reports, PC Check results, POV footage, and other relevant information will be reviewed solely by the Zephyr Staff Team.
 If a PC Check is completed but the results are inconclusive, the player will be placed on a One-Strike Policy.
