@@ -237,3 +237,5 @@ These zones exist to create clear boundaries, reduce confusion, and ensure all e
 - Official gangs must not exceed their approved hostile cap while participating in Cayo Perico activities and also MUST wear their Gang clothing as per their gang hostile rules.
 - There is to be no teaming, alliances, or "hand-holding" between separate groups or gangs while on Cayo Perico. Each group or gang must operate independently.
 
+
+
