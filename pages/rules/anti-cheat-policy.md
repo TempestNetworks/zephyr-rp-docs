@@ -2,7 +2,7 @@
 
 ### 🔍 Our Commitment
 
-Zephyr is built on fair play, transparency, and trust. We’re here to keep cheaters, exploiters, and IRL traders out—without invading your privacy.
+Zephyr is built on fair play, transparency, and trust. We’re here to keep cheaters, exploiters, and IRL traders out.
 
 ### ⚙️ How Our Anti-Cheat Works
 
@@ -15,57 +15,39 @@ We use smart, behavior-based systems to detect cheating. We flag for:
 
 ### 🔍 PC Checks (With Consent Only)
 
-If needed, we may ask to conduct a PC check, using approved third-party tools.
-- ✅ Consent is required.
-- 🚫 No spyware. No hidden tools.
-- ❌ Refusing a PC check without clear communication may result in permanent removal.
-- 🧾 We Don’t Sell Safety If you're caught cheating, exploiting, or IRL trading, you cannot buy your way back. No paid unbans. No exceptions.
+If a player is suspected of cheating and there is credible evidence or proof from other cities/servers, the player may be requested to complete a PC Check with the Zephyr Staff Team.
+If a player declines a PC check, which they are entitled to do, the Zephyr Team reserves the right to reassess the potential risk posed to the wider community. This reassessment may result in further action, including, but not limited to, the suspension or permanent ban of the player from participating within the Zephyr Community.
+Players are not required to complete “deep-dive” PC checks with third parties or with zephyr staff.
+All evidence, reports, PC Check results, POV footage, and other relevant information will be reviewed solely by the Zephyr Staff Team.
+If a PC Check is completed but the results are inconclusive, the player will be placed on a One-Strike Policy.
+If further reports are made and Zephyr Staff determine that the player's POV footage is sufficiently suspicious, the player may be permanently banned from Zephyr with no appeal process.
+If a player completely fails a required PC Check, they will be permanently banned from Zephyr and all associated Zephyr Discords, with no appeal process.
 
-### 📚 Player History: A Factor, Not a Sentence
+### POV / Kill Clips
+All Zephyr players are required to clip a minimum of 10 seconds leading up to and including every kill they make.
+Players are expected to have this recording capability active at all times while playing.
+Failure to produce a POV clip for a kill when requested will result in a strike.
+Players should ensure their recording software is functioning correctly before participating in situations where kills may occur.
+
+### Zephyr Strike System
+Failure to produce a required POV kill clip will follow the Zephyr Strike System:
+First Strike — Official warning.
+Second Strike — 1-week ban.
+Third Strike — Permanent Removal
+
+### Evidence & Final Decisions
+Interpretation of POV clips, PC Check results, reports, and any other supporting evidence will be conducted solely by Zephyr Staff.
+Zephyr Staff will consider the full context and available evidence when making a decision.
+No third-party individual or organisation will have authority to make the final determination on a Zephyr player's case.
+All decisions made by the Zephyr Staff Team under these anti-cheat rules are final.
+
+### 📚 Player History: 
 
 We may consider prior bans or public records only when:
 
 - Multiple flags occur in our system
 - You're widely known for griefing or cheating
 - Reports come with clear evidence (e.g. logs, videos, screenshots)
-- We don’t auto-ban for your past — we just use it to support investigations.
-- People change. Context matters.
-
-### 🚨 The Flagging & Review System
-
-**Tier 1 – Minor Suspicion**
-
-    🟡 Example: One-off abnormal behavior
-
-    ✅ Action: Logged & silently monitored
-
-**Tier 2 – Moderate Suspicion**
-
-    🟠 Example: Repeat flags or dodgy reports
-
-    ⚠️ Action: Staff review & possible player contact
-
-**Tier 3 – High Suspicion**
-
-    🔴 Example: Consistent severe flags or cheat attempts
-
-    ⛔ Action: Temporary ban while logs are reviewed
-
-    All bans are reviewed by trusted staff—no auto-bans.
-
-        🧠 Why This Works Best
-
-        🧠 Smart – Pattern-based, not paranoia-based
-
-        🤝 Fair – One mistake won't ruin your rep
-
-        🔒 Privacy-First – Your system is your business
-
-        📋 Documented – Every ban is logged & appealable
-
-        📊 Transparent – We aim to post ban stats monthly
-
-        📤 Appeal Process
 
 ### Think we got it wrong? File an appeal:
 
@@ -84,7 +66,6 @@ Include:
 We will never:
 - Use spyware or remote access
 - Ask you to download anything that we wouldn't download ourselves
-- Ban based solely on another server’s records (unless it is an anticheat global ban)
 
 ### 📈 Community Transparency
 
