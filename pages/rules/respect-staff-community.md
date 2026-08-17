@@ -9,6 +9,7 @@ The following behaviour is not tolerated:
 - Trolling, griefing, or intentionally disruptive behaviour
 - Cheating or exploiting
 - Attempting to create, encourage, or spread community drama
+- Messaging Staff directly or indirectly 
 
 Instigating unnecessary drama, conflict, or hostility within the community may result in punishment or removal from Zephyr Roleplay.
 
