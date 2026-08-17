@@ -74,6 +74,7 @@ During gang-related situations, if you take a hostage you may only take:
 
 If the hostage **cooperates**, these items must be returned once the situation ends.
 If the hostage is **genuinely uncooperative**, you may retain those items.
+PD officers can not be taken hostage or negotiated for in trade deals
 
 You may **NOT**:
   - Bait, provoke, or manipulate a hostage into becoming uncooperative
