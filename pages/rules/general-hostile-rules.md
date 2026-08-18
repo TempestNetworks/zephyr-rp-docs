@@ -207,24 +207,30 @@ Vehicle combat should focus on disabling, trapping, or stopping vehicles realist
 ## Zephyr Helicopter Rules
 These rules apply across all of Zephyr, including Cayo.
 
-#Helicopter Limits
+# Helicopter Limits
 During active hostilities, a maximum of two helicopters may be used by a group.
+
 This includes all hostile situations at Cayo.
+
 Of the two helicopters:
 1 × Attack Helicopter — Any helicopter may be used.
 1 × Scout Helicopter — The Sparrow is the only helicopter permitted for this role.
-Scout Helicopter Rules
+
+# Scout Helicopter Rules
 The Sparrow Scout Helicopter is strictly for scouting and transportation.
 Players are not permitted to shoot from the Scout Helicopter during active hostilities.
+
 If a group is caught misusing the Scout Helicopter or shooting from it:
 A warning will be issued and recorded on the group's record.
 Continued misuse will result in a Minor Strike.
-Helicopter Ramming
+
+# Helicopter Ramming
 Deliberately ramming another helicopter with your own helicopter is not permitted.
 If a group is caught intentionally ramming other helicopters:
 A warning will be issued and recorded on the group's record.
 Continued behaviour will result in a Minor Strike.
-Cayo Transportation
+
+# Cayo Transportation
 Transportation to Cayo is limited to the two permitted helicopters:
 1 × Attack Helicopter
 1 × Sparrow Scout Helicopter
