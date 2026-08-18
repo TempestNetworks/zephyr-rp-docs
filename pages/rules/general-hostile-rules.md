@@ -265,10 +265,13 @@ These zones exist to create clear boundaries, reduce confusion, and ensure all e
 
 ## Cayo Perico Group Rules
 
-- Non-gang-affiliated players may form groups of up to six (6) members to participate in Cayo Perico activities. This includes groups made up of friends from different gangs, provided they are attending as a non-gang group.
-- All members of a non-gang group must wear matching outfits while on Cayo Perico so they can be clearly identified as a single group.
-- Official gangs must not exceed their approved hostile cap while participating in Cayo Perico activities and also MUST wear their Gang clothing as per their gang hostile rules.
-- There is to be no teaming, alliances, or "hand-holding" between separate groups or gangs while on Cayo Perico. Each group or gang must operate independently.
+## Gang & Non-Gang Groups
+- Friends or associates of established gangs are not permitted to join an established gang for Cayo activities.
+- If you want to participate in Cayo with your friends, you may form a non-gang group of up to 6 players.
+- All members of a non-gang group must wear matching non-gang clothing while participating in Cayo.
+- Non-gang groups must remain separate from established gangs and cannot be used to bypass gang hostile caps or Cayo group restrictions.
+- Established gangs must not add non-gang friends to their group for the purpose of increasing their numbers or bypassing their hostile cap.
+
 
 
 
