@@ -24,12 +24,4 @@ Your vehicle fleet is part of your gang’s identity — keep it consistent.
 No spamming bikes from garages — if it’s gone, it’s gone.
 
 ***
-
-**🚁 Helicopter Policy**
-
-* Gangs are allowed **1 helicopter** during any active scenario
-* It must follow **RP justification** for its use (e.g. scouting, pickup — not mass transport)
-* If the heli is destroyed, **it is permitted to be repaired, however a new heli is not permitted to be taken out** under any circumstance until the scenario is concluded.
-***
-
 Operational vehicles are a tool, not a cheat code. Abuse the system, and your access will be restricted — or removed entirely.
