@@ -29,5 +29,30 @@ Your crew should be seen, recognised, and respected — make sure you look the p
 
 Your crew should be **seen, recognised, and respected** — make sure you look the part.
 
+## Gang Colors 
+
+* **When a new crew is accepted into Zephyr, they must declare their primary gang colour(s) to Gang Staff for approval.
+* **Once approved, these colours become the crew's official identifying colours.
+*  **All gang clothing and uniforms must prominently feature the crew's approved primary colour(s).
+## Clothing Approval
+* Upon progressing from Trial Crew to Official Crew status, all clothing concepts, uniforms, cuts, patches, and gang-related outfits must be submitted to Gang Staff for approval before being worn within the city.
+* Any significant changes to approved clothing may require further approval from Gang Staff.
+## Clothing Standards
+* All gang clothing must align with the style and roleplay theme of the organisation being portrayed.
+* Clothing should be realistic, identifiable, and contribute to immersive roleplay.
+* Motorcycle Clubs (MCs)
+* MC members are expected to wear traditional biker attire such as kuttes, vests, jeans, boots, and similar clothing associated with motorcycle clubs.
+** MCs should not be wearing streetwear-style outfits such as sweatpants, basketball jerseys, athletic wear, or other clothing that does not fit the MC roleplay theme.
+** Street Gangs, Cartels, and Other Organisations
+** Clothing should be consistent with the image and identity of the organisation.
+** Outfits should remain recognisable and reflect the crew's approved colours and style.
+## Crew Identity
+* All official gang clothing must incorporate the crew's approved primary colour(s).
+* Crews may use secondary colours to complement their outfits; however, the approved primary colour must remain clearly visible and identifiable.
+## Staff Discretion
+* Gang Staff retain final approval over all gang clothing.
+* Clothing that is unrealistic, immersion-breaking, excessively similar to another group's identity, or does not meet these standards may be denied or require modification.
+
+
 ***
 ### Under no circumstances are you to wear other gangs clothing in hostilities (If you have roleplayed taking a piece of clothing during beef this specific item of clothing can be worn outside of hostilities)
