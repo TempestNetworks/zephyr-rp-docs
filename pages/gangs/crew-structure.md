@@ -68,6 +68,9 @@ Cooldowns are enforced server-wide and may only be waived with Gang Staff approv
 - Throughout the entire 48-hour HPO period, the member being patched over must wear a minimum of three visible identifiers associated with the defending gang (e.g. patch, colours, or approved clothing items). 
 These identifiers must remain on at all times while in the city. 
 - If the member involved in the HPO is successfully captured and permanently killed (PK'd) by the attacking gang during the 48-hour period, the HPO is considered un-successful. The member will receive the standard one-week gang cooldown."
+- For an HPO (Hostile Patch Over) to be considered successful, the attacking gang must eliminate the HPO member and remain on scene until the member has fully seen the light.
+- If the attacking gang leaves the scene before the HPO member has seen the light, the HPO will not be considered successful and may be deemed invalid.
+- This requirement ensures the outcome of the HPO is properly roleplayed and witnessed by all parties involved.
 
 ***
 
