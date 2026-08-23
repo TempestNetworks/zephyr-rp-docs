@@ -192,7 +192,7 @@ Vehicle combat should focus on disabling, trapping, or stopping vehicles realist
 
 **Not Allowed**
 
-* You may use super cars but using them to "One Way"(reversing up to conflict to avoid being shot) is not allowed 
+* Using one-way vehicles during conflict, or in any way that provides a hostile or combat advantage, is not allowed.
 
 * Head on ramming
 
