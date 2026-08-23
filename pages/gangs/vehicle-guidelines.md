@@ -1,7 +1,7 @@
 # 🚗 Vehicle Guidelines
 
 Gangs are expected to operate with a clear sense of identity — and that includes what they drive. Vehicle use during operations, wars, and hostile scenarios must follow consistent guidelines to ensure fairness and immersion.
-
+Using one-way vehicles during conflict, or in any way that provides a hostile or combat advantage, is not allowed.
 ***
 
 **🎨 Uniform Vehicle Appearance**
