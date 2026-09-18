@@ -7,9 +7,9 @@ This isn’t just about style — it’s about accountability, clarity, and prop
 
 To keep hostile roleplay clear, fair, and immersive, all groups engaging in gang-related hostilities must follow the clothing and identifier guidelines below:
 
-* **Clear Identification:** During any hostile situation, all involved members of a gang must be easily identifiable. This means wearing consistent gang clothing, colours, or clear identifiers that make it obvious who you represent.
+* **Clear Identification:** During any hostile situation, all involved members of a gang must be easily identifiable. 
 
-* **Matching Attire in Hostiles:** If you are participating in a hostile action, you are required to dress the same or in a clearly matching theme as the rest of your group. Everyone involved must appear visually connected. If you have two different colour ways (say black/green and white/green) you must all be in the same colour way.
+* **Matching Attire in Hostiles:** If you are participating in a hostile action, you are required to dress the same or in a clearly matching colorway as the rest of your group. Everyone involved must appear visually connected. If you have two different colour ways (say black/green and white/green) you must all be in the same colour way.
 
 * **Rep Your Gang Properly:** When going into hostiles, you should be repping your gang as much as possible—this includes colours, patterns, masks, jackets, or any other signature pieces your gang uses. you should be in your full fit not just using some of the clothing.
 
