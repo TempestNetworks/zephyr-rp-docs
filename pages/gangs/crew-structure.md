@@ -63,6 +63,9 @@ Cooldowns are enforced server-wide and may only be waived with Gang Staff approv
 
 **Hostile Patch Over**
 
+- All HPOs must be submitted to and approved by Gang Staff prior to being initiated.
+- When submitting an HPO request, gangs must provide sufficient evidence and backstory outlining the roleplay reasoning behind the HPO and why it is being pursued. This information will be reviewed by Gang Staff as part of the approval process.
+- Approval or denial of an HPO is at the sole discretion of Gang Staff. All decisions made by Gang Staff are final and non-negotiable.
 - The initial meeting where a member is transferred from another gang must be treated as a hostile interaction. The receiving gang must clearly communicate that they are taking the member, and the original gang must be aware of this. As with any hostile interaction, this may escalate into a melee confrontation. 
 - The defending gang's objective is to protect the member involved in the HPO. Defenders must not actively hunt or pursue the attacking gang unless it is necessary to defend the member. 
 - Throughout the entire 48-hour HPO period, the member being patched over must wear a minimum of three visible identifiers associated with the defending gang (e.g. patch, colours, or approved clothing items). 
