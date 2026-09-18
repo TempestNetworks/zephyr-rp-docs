@@ -93,7 +93,7 @@ Remove graffiti from your territory within a reasonable timeframe.
 Pay a realistic fee or tax proportional to the offense (amounts must be plausible given the situation ideally 500k to 5m max in extreme cases. seek staff approval on over 1m fee's).
 Rules & consequences Demands must be reasonable and proportional to the offense. Staff may decline or cancel demands they judge to be unrealistic. Repeatedly issuing unrealistic demands may result in those demands—or the entire conflict—being dropped by staff. Demands are not mandatory; groups may refuse them and choose other responses
 
-## Out of Colours
+## KOS Timer Rules
 If your gang is involved in an active KOS or ongoing beef, you must wear your gang colours (official gang clothing). You may only go out of colours after being killed, during your hostile cooldown or while waiting for the KOS to expire.
 
 🔴 You cannot go out of colours just to avoid conflict while still participating in the beef. If you're in it — you're in it. Starting a beef and then hiding until it's convenient to return is not allowed.
@@ -106,6 +106,10 @@ On timer = stay out of colors, stay out of beef, stay out of trouble.
 If you put yourself in a gang situation while on timer, you are fair game and staff will not protect you.
 
 If you die in a conflict you should be taking off your gang clothing before leaving the inside of the hospital to avoid any confusion.
+
+Players on a conflict timer who have disengaged from the situation and made a reasonable effort to remove their identifiers are not to be targeted or re-engaged.
+
+No Returning to aid members or pick up bodies while out of colors 
 
 ## ➕ Joining Active Hostilities
 
