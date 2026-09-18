@@ -89,3 +89,17 @@ These identifiers must remain on at all times while in the city.
   * Character must be fully deleted and wiped after Hard PK.
 
 All hard PKs must be agreed on between both parties, all agreements must be done in roleplay. Any form of discord agreements will be disregarded and waived entirely. You must have the agreement recorded and clipped through a clipping software which you may be required to provide at the request of Gang Staff.
+
+**Mayhem Vote / Hierarchy Overthrow**
+
+Any attempt to overthrow a gang’s leadership or initiate a mayhem vote must receive prior approval from Gang Staff before any action or related scene takes place.
+
+Approval will only be considered where:
+
+There is substantial in-character backstory and a clear build-up supporting the overthrow.
+The conflict has developed naturally through roleplay and is not manufactured solely to remove leadership.
+The reasoning is entirely in character and contains no out-of-character disputes, personal issues, grudges or influence.
+
+Gang Staff may review the gang’s overall activity, leadership and suitability during this process. If the gang or its proposed leadership is deemed unfit to continue, Gang Staff reserves the right to deny the overthrow or disband the gang entirely.
+
+Attempting to organise or carry out an unapproved overthrow, or disguising OOC conflict as IC reasoning, may result in disciplinary action.
