@@ -6,7 +6,7 @@ Breaking into another crew’s compound isn’t just some petty robbery — it�
 
 **🧨 Breaching Tool Rulings**
 
-* You MUST reach out and ask permission to purchase a breaching tool off Madrazo.
+* You MUST reach out and ask permission to purchase a breaching tool off Madrazo unless purchased via Inner Circle Auctions
 * Significant prior built-up RP must be provided before approval will be considered.
 * Any petty or low-quality reasoning such as early hostilities before any attempt at resolution or RP progression will result in denial and a cooldown on purchasing or attempting to purchase the tool.
 * Once purchased, the breaching tool will last for 12 hours only. From the time of purchase, you have 12 hours to complete your breach.
