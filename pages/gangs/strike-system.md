@@ -96,6 +96,14 @@ During hostile cooldowns, gangs may not:
 - Use hangarounds/proxy groups to continue conflict
 - Bait hostile situations
 - Camp rival gangs or PD
+- Cayo
+- Wars 
+- Beef
+- Fist Fights
+- Hostile Events - Including Staff hosted events.
+- Heists
+While on this Hostile cooldown gangs will not be able to collect their vendor either.
+
 - Circumvent cooldowns through loopholes
 
 > Attempting to bypass a cooldown will result in additional strikes or direct escalation to a Major Strike.
