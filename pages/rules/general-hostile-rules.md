@@ -19,10 +19,6 @@ A player is considered involved in a hostile situation if they are actively part
      - Active conflict/KOS (Vehicle must be directly involved. Vehicles are only considered directly involved if they are actively participating in, assisting with, or connected to the ongoing hostile situation.)
      - If they have stored items in their glovebox to avoid being robbed mid hostility
 
-* Using one-way bullet-resistant windows to gain combat advantage is strictly prohibited
-  - Example:
-     - Reversing one-ways up to a person who is shooting at you to avoid being shot (this includes helicopters)
-
 * Killing a player after robbing them breaks the NITRP rule and is not allowed}
   - Example: 
      - Handsing someone with the intent to rob them and then killing them because they didn't have something you wanted to take
