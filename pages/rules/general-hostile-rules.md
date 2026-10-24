@@ -54,10 +54,30 @@ Robberies **require clear RP build-up** and you must be able to provide proof if
 - Debt collection
 - Recovering stolen items
 
-The following are considered **inherently high-risk illegal activities** and **do not require clear RP build-up**
-- Drug manufacturing or processing
-- Illegal crafting benches
-- Selling drugs
+### Location Camping & Chain Robberies
+
+Players must not repeatedly target criminal activity locations for the sole purpose of robbing other players.
+
+The following are **strictly prohibited**:
+
+- **Location Camping** — Waiting at or repeatedly returning to drug locations, illegal crafting benches, processing locations, or other criminal activity areas with the primary intention of robbing players who arrive.
+- **Chain Robberies** — Robbing multiple unrelated players or groups in succession at the same location without a separate, legitimate RP reason for each interaction.
+- **Robbery Farming** — Using knowledge of popular criminal locations to repeatedly target players for weapons, drugs, money, or other valuables.
+- **Repeated Targeting** — Continuously robbing the same player or group without meaningful new RP developments.
+
+### High-Risk Criminal Activities
+
+Players actively participating in drug manufacturing, processing, selling, or illegal crafting may still be robbed **without prior RP build-up**.
+
+However, this exception does not permit players to camp these locations or conduct repeated robberies.
+
+A robbery must arise from a **genuine roleplay encounter**, not from deliberately waiting for potential victims to arrive.
+
+### Enforcement
+
+Staff may consider the frequency of robberies, time spent at a location, repeated targeting, and the circumstances of each interaction when determining whether these rules have been breached.
+
+Players must be able to explain the roleplay circumstances behind their actions when requested by staff.
 
 ### Killing & Robbing
 - Killing a player and then robbing them is **strictly prohibited**, except on **Cayo**.
