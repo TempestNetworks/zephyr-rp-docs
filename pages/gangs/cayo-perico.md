@@ -17,6 +17,19 @@ The Rob Zone is identified by the **ROB ZONE** tag displayed on the left side of
 - Exploiting or intentionally abusing loopholes without reporting them to staff will result in a non-negotiable Minor Strike for your group.
 
 ***
+## Helicopter Permitted Days 
+
+Helicopter PERMITTED days: 
+
+Tuesday 
+Wednesday 
+Thursday 
+Friday
+
+## NO Heli Days 
+
+Sunday 
+Monday
 
 ## 📦 Crate Zone
 
