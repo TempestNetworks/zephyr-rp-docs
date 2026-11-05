@@ -21,15 +21,16 @@ The Rob Zone is identified by the **ROB ZONE** tag displayed on the left side of
 
 Helicopter PERMITTED days: 
 
+Sunday
+Monday
 Tuesday 
 Wednesday 
 Thursday 
-Friday
 
 ## NO Heli Days 
 
-Sunday 
-Monday
+Friday 
+Saturday
 
 ## 📦 Crate Zone
 
