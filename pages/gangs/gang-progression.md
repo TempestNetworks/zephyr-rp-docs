@@ -15,7 +15,7 @@ _Your first step into the criminal world. All eyes are on you._
 
 ***
 
-**🔸 Crew **
+**🔸 Crew**
 
 Recognised. Known. You’re beginning to make waves.
 
@@ -34,7 +34,7 @@ Custom MLO (Gang HQ, hideout, or storefront)
 5 custom clothing pieces plus One accessory pieces (no jewlery)
 Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
 
-**🕴️ Syndicated **
+**🕴️ Syndicated**
 
 Top tier. Feared and respected. You don’t just operate in the city — you help shape it.
 
