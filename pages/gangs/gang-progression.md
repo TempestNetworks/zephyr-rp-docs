@@ -24,7 +24,7 @@ Recognised. Known. You’re beginning to make waves.
 3 custom clothing pieces (e.g. Jacket, Shirt, Pants & Tac Vest)
 Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
 
-** 🏢 Organisation**
+**🏢 Organisation**
 
 You’ve built structure, claimed turf, and gained real presence.
 
