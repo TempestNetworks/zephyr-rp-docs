@@ -15,47 +15,39 @@ _Your first step into the criminal world. All eyes are on you._
 
 ***
 
-**🔸 Crew**
+**🔸 Crew **
 
-_Recognised. Known. You're beginning to make waves._
+Recognised. Known. You’re beginning to make waves.
 
-* **16-member** roster cap
-* **12-member** hostile cap
-* **5 custom clothing pieces** (e.g. Jacket, Shirt, Pants & Tac Vest) plus one accessory piece (rag & mask etc)
-  - Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
-  - Up to 2 texture variants per clothing piece 
+16-member roster cap
+12-member hostile cap
+3 custom clothing pieces (e.g. Jacket, Shirt, Pants & Tac Vest)
+Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
 
-***
+** 🏢 Organisation **
 
-**🏢 Organisation**
+You’ve built structure, claimed turf, and gained real presence.
 
-_You’ve built structure, claimed turf, and gained real presence._
+20-member roster cap
+16-member hostile cap
+Custom MLO (Gang HQ, hideout, or storefront)
+5 custom clothing pieces plus One accessory pieces (no jewlery)
+Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
 
-* **20-member** roster cap
-* **16-member** hostile cap
-* Custom **MLO** (Gang HQ, hideout, or storefront)
-* **8 custom clothing pieces** plus two accessory pieces
-  - Up to 2 approved colourways per clothing piece (All Colourways must include your groups main colour)
-  - Up to 4 texture variants per clothing piece
+**🕴️ Syndicated **
 
-***
+Top tier. Feared and respected. You don’t just operate in the city — you help shape it.
 
-**🕴️ Syndicated**
-
-_Top tier. Feared and respected. You don’t just operate in the city — you help shape it._
-
-* **26-member** roster cap
-* **20-member** hostile cap
-* Larger stash within custom MLO
-* Custom Gang vehicle of own choosing
-* Heli garage for a fee
-* **10 custom clothing pieces**
-  - Up to 3 approved colourways per clothing piece (All 3 Colourways must include your groups main colour)
-  - Up to 6 texture variants per clothing piece
-
+26-member roster cap
+20-member hostile cap
+Larger stash within custom MLO
+Custom Gang vehicle of own choosing
+Heli garage for a fee
+8 custom clothing pieces plus two accessory pieces (no jewlery)
+Up to 3 approved colourways per clothing piece (All 3 Colourways must include your groups main colour)
 **Custom Clothing Variant Rules**
 
-Groups must maintain a consistent visual identity across all custom clothing.
+Groups must maintain a consistent visual identity across all custom clothing. 
 
 **Texture variants may include:**
 * Camo variants
